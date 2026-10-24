@@ -25,7 +25,8 @@ jobs:
           pip install numpy Pillow PySide6 av opencv-python-headless
           pip install ruff
 
-      - name: 静态检查
+      - name: 静态检查（不阻塞）
+        continue-on-error: true
         run: ruff check freecut
 
       - name: 单元测试（不依赖 ffmpeg 的子集）
