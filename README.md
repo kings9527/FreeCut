@@ -1,5 +1,9 @@
 # FreeCut · 免费开源的桌面视频剪辑器
 
+[![ci](https://github.com/kings9527/FreeCut/actions/workflows/ci.yml/badge.svg)](https://github.com/kings9527/FreeCut/actions/workflows/ci.yml)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
+
 纯 Python + FFmpeg 的离线视频剪辑器（Qt 界面），可读写剪映草稿，也能导出
 mp4 / m4a / GIF、FCP7 XML 和 `.prproj`。不登录、不联网、不上传任何素材。
 
