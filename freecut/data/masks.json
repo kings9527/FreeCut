@@ -1,0 +1,55 @@
+{
+ "source": "pyJianYingDraft/pyJianYingDraft/metadata/mask_meta.py",
+ "license": "Apache-2.0",
+ "count": 6,
+ "items": [
+  {
+   "name": "线性",
+   "kind": "line",
+   "resource_id": "6791652175668843016",
+   "effect_id": "636071",
+   "md5": "1f467b8b9bb94cecc46d916219b7940a",
+   "aspect": 1.0
+  },
+  {
+   "name": "镜面",
+   "kind": "mirror",
+   "resource_id": "6791699060140020232",
+   "effect_id": "636073",
+   "md5": "b2c0516d1f737f4542fb9b2862907817",
+   "aspect": 1.0
+  },
+  {
+   "name": "圆形",
+   "kind": "circle",
+   "resource_id": "6791700663249146381",
+   "effect_id": "636075",
+   "md5": "9a55eae0e99ee6d1ecbc6defaf0501ec",
+   "aspect": 1.0
+  },
+  {
+   "name": "矩形",
+   "kind": "rectangle",
+   "resource_id": "6791700809454195207",
+   "effect_id": "636077",
+   "md5": "ef361d96c456cd6077c76d737f98898d",
+   "aspect": 1.0
+  },
+  {
+   "name": "爱心",
+   "kind": "geometric_shape",
+   "resource_id": "6794051276482023949",
+   "effect_id": "636079",
+   "md5": "0bf09fa1e3a32464fed4f71e49a8ab01",
+   "aspect": 1.115
+  },
+  {
+   "name": "星形",
+   "kind": "geometric_shape",
+   "resource_id": "6794051169434997255",
+   "effect_id": "636081",
+   "md5": "155612dee601d3f5422a3fbeabc7610c",
+   "aspect": 1.05
+  }
+ ]
+}

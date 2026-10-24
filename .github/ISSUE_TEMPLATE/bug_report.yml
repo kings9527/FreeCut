@@ -1,0 +1,38 @@
+name: Bug 报告
+description: 报告一个可复现的问题
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: 发生了什么
+      description: 期望结果 vs 实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: |
+        1. 打开 ...
+        2. 点击 ...
+        3. 看到 ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 版本
+      description: 打包版看窗口标题（build 2026-10-23 #302）；源码版给 commit
+    validations:
+      required: true
+  - type: dropdown
+    id: surface
+    attributes:
+      label: 用哪种方式运行
+      options: [打包 exe, 源码 python -m freecut gui, 命令行子命令]
+  - type: textarea
+    id: extra
+    attributes:
+      label: 其他信息
+      description: 日志、截图、工程文件（可脱敏）

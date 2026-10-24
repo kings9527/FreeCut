@@ -1,0 +1,22 @@
+{
+  "_comment": "验收用的最小清单：不渲染，只跑两个快任务",
+  "vars": {
+    "project": "out/showcase.json",
+    "outdir": "out/_batch_smoke"
+  },
+  "jobs": [
+    {
+      "id": "xml",
+      "action": "xml",
+      "project": "{{project}}",
+      "out": "{{outdir}}/smoke.xml"
+    },
+    {
+      "id": "stills",
+      "action": "stills",
+      "project": "{{project}}",
+      "out": "{{outdir}}/stills",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "改 vars 就能套不同工程；也可命令行覆盖：--var outdir=out/2026-10",
+  "vars": {
+    "project": "out/showcase.json",
+    "outdir": "out/batch-run",
+    "draft_root": "E:/剪映-草稿/JianyingPro Drafts",
+    "narration": "out/narration.wav",
+    "existing_mp4": "out/showcase.mp4"
+  },
+  "jobs": [
+    {
+      "id": "demo-subs",
+      "action": "autosub",
+      "media": "{{narration}}",
+      "project": "{{project}}",
+      "out": "{{outdir}}/showcase_with_subs.json",
+      "model": "base"
+    },
+    {
+      "id": "demo-check",
+      "action": "verify",
+      "media": "{{existing_mp4}}"
+    },
+    {
+      "id": "demo-stills",
+      "action": "stills",
+      "project": "{{project}}",
+      "out": "{{outdir}}/stills",
+      "count": 6
+    },
+    {
+      "id": "demo-xml",
+      "action": "xml",
+      "project": "{{project}}",
+      "out": "{{outdir}}/showcase.xml"
+    },
+    {
+      "id": "demo-flat",
+      "action": "flatten",
+      "project": "{{project}}",
+      "root": "{{draft_root}}",
+      "name": "FreeCut 展平演示"
+    }
+  ]
+}

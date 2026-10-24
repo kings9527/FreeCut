@@ -1,0 +1,25 @@
+# 第三方组件与许可
+
+FreeCut 自身代码以 MIT 许可发布（见 LICENSE）。运行时会使用以下第三方组件，
+它们各自的许可与版权归其作者所有：
+
+| 组件 | 用途 | 许可 |
+|---|---|---|
+| PySide6 / Qt for Python | Qt 界面 | LGPL-3.0（动态链接；可自行替换 Qt 动态库） |
+| FFmpeg（外部程序，不随仓库分发） | 解码/编码/滤镜 | LGPL-2.1+ 或 GPL-2.0+（取决于用户所装构建） |
+| PyAV | 视频解码绑定 | BSD-3-Clause |
+| NumPy | 数值计算 | BSD-3-Clause |
+| Pillow | 图像/文字栅格化 | HPND（PIL 许可） |
+| OpenCV（可选） | 仿射/缩放加速 | Apache-2.0 |
+| sounddevice（可选） | 音频播放/录制 | MIT |
+
+## 关于 FFmpeg
+
+本仓库**不包含** FFmpeg 可执行文件。请自行安装并遵守其许可；
+若你分发了包含 FFmpeg 的安装包，需要同时满足 FFmpeg 的 LGPL/GPL 条款。
+
+## 关于剪映 / Premiere
+
+FreeCut 通过公开的草稿/工程文件格式做**互操作**（读写 `draft_content.json`、
+FCP7 XML、`.prproj`），不包含任何来自剪映（字节跳动）或 Adobe 的程序、素材、
+字体或资源包。相关商标归各自所有者。

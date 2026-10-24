@@ -1,0 +1,43 @@
+# ---- 构建产物 ----
+build/
+dist/
+*.spec.bak
+*.egg-info/
+
+# ---- 运行产物 / 临时输出 ----
+out/
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+ui_state.json
+freecut_jianying_snapshot.json
+
+# ---- 用户素材：不要提交 ----
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.gif
+*.cube
+*.ttf
+*.ttc
+*.otf
+
+# ---- 第三方运行时 ----
+tools/whisper/
+tools/whisper-faster/
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.zip
+
+# ---- 编辑器 ----
+.vscode/
+.idea/
+.DS_Store

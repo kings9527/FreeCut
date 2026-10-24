@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "freecut"
+version = "1.0.0"
+description = "免费开源的简易视频剪辑工具：读写剪映工程、FCP7 XML 互通、转场/关键帧/调色/蒙版/字幕/离线语音识别"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+keywords = ["video", "editor", "capcut", "jianying", "premiere", "ffmpeg", "subtitle"]
+dependencies = ["numpy>=1.23", "Pillow>=9.0"]
+
+[project.optional-dependencies]
+# OpenCV 只是渲染的快路径；不装也能跑（纯 numpy 双线性采样），见 transform.py
+speed = ["opencv-python>=4.8"]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+freecut = "freecut.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["freecut*"]
+
+[tool.setuptools.package-data]
+freecut = ["data/*.json", "data/NOTICE.md"]

@@ -1,0 +1,77 @@
+{
+ "source": "pyJianYingDraft/pyJianYingDraft/metadata/mix_mode_meta.py",
+ "license": "Apache-2.0",
+ "count": 10,
+ "items": [
+  {
+   "name": "正片叠底",
+   "resource_id": "6758325895519277582",
+   "effect_id": "871333",
+   "md5": "8001e07eefc5d8b69572b977ca14bef9",
+   "vip": false
+  },
+  {
+   "name": "颜色减淡",
+   "resource_id": "6758325800031752712",
+   "effect_id": "871334",
+   "md5": "f979dd10def50fad3ffb77c7f0df3db7",
+   "vip": false
+  },
+  {
+   "name": "颜色加深",
+   "resource_id": "6758325724848853518",
+   "effect_id": "871335",
+   "md5": "b76087cda4833f553cf09e82fb81c463",
+   "vip": false
+  },
+  {
+   "name": "线性加深",
+   "resource_id": "6758325619253056013",
+   "effect_id": "871336",
+   "md5": "655f3590dd07ece41209fb312348ffe9",
+   "vip": false
+  },
+  {
+   "name": "柔光",
+   "resource_id": "6758325439212556814",
+   "effect_id": "871337",
+   "md5": "042aa15b71b1e17bca0bd928eec6fba7",
+   "vip": false
+  },
+  {
+   "name": "强光",
+   "resource_id": "6758325264670790152",
+   "effect_id": "871338",
+   "md5": "840ca85a1a33e6fc3ea78bbdb2db8f60",
+   "vip": false
+  },
+  {
+   "name": "滤色",
+   "resource_id": "6758325170760323597",
+   "effect_id": "871339",
+   "md5": "d9c1d4ca7ab91df4f48d12b339f2da88",
+   "vip": false
+  },
+  {
+   "name": "叠加",
+   "resource_id": "6758324989931295240",
+   "effect_id": "871340",
+   "md5": "e6a48579910dfe831ba53a6acc6737f9",
+   "vip": false
+  },
+  {
+   "name": "变亮",
+   "resource_id": "6758324919789949453",
+   "effect_id": "871341",
+   "md5": "b0e90c43dc266a317b05b0cd3ca5bfba",
+   "vip": false
+  },
+  {
+   "name": "变暗",
+   "resource_id": "6758324839670354445",
+   "effect_id": "871342",
+   "md5": "420c92a2b480dc8e402d9269a5f83515",
+   "vip": false
+  }
+ ]
+}

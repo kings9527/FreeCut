@@ -1,0 +1,23 @@
+name: 功能建议
+description: 想要的新能力
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: 你想解决什么问题
+      description: 描述使用场景，而不是只写"加个 XX 按钮"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 你设想怎么做
+  - type: dropdown
+    id: scope
+    attributes:
+      label: 是否依赖云端
+      options:
+        - 纯本地（可以离线实现）
+        - 需要云端/账号（本项目通常不做，会说明原因）
+        - 不确定

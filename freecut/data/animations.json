@@ -1,0 +1,5533 @@
+{
+ "source": "pyJianYingDraft/pyJianYingDraft/metadata/{video,text}_{intro,outro,loop}.py",
+ "license": "Apache-2.0",
+ "count": 614,
+ "items": [
+  {
+   "name": "Kira游动",
+   "category": "video_in",
+   "resource_id": "7311984593387655731",
+   "effect_id": "34176967",
+   "md5": "05daa2cb2b53e1830a0e657ede749daf",
+   "duration_s": 2.267,
+   "vip": false
+  },
+  {
+   "name": "上下抖动",
+   "category": "video_in",
+   "resource_id": "6739418390030455300",
+   "effect_id": "431652",
+   "md5": "bff95de5e1e4803ea64a52632bcfb361",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "动感放大",
+   "category": "video_in",
+   "resource_id": "6740867832570974733",
+   "effect_id": "431662",
+   "md5": "3d880239a1fa70fbaedcc7fd20794e22",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "动感缩小",
+   "category": "video_in",
+   "resource_id": "6740868384637850120",
+   "effect_id": "431658",
+   "md5": "8357dd30914ef6ba1ba89dd12a83dc3e",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上滑动",
+   "category": "video_in",
+   "resource_id": "6798333487523828238",
+   "effect_id": "624739",
+   "md5": "91285fcdbc398dd776994fd67b3c93fb",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上转入",
+   "category": "video_in",
+   "resource_id": "6808401616564130312",
+   "effect_id": "645307",
+   "md5": "5bf5677a81740d903c673d6647979f92",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上转入 II",
+   "category": "video_in",
+   "resource_id": "6818747060649464327",
+   "effect_id": "701961",
+   "md5": "4f2fac081f3d5f7e28c9ba131a397e83",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向下滑动",
+   "category": "video_in",
+   "resource_id": "6798333705401143816",
+   "effect_id": "624735",
+   "md5": "1b122a36e9704adc7ed708dc38b5cde3",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向下甩入",
+   "category": "video_in",
+   "resource_id": "6739338374441603598",
+   "effect_id": "431638",
+   "md5": "afb5afec3c42fa627a007ff609c83792",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右上甩入",
+   "category": "video_in",
+   "resource_id": "6740122731418751495",
+   "effect_id": "431644",
+   "md5": "12ae5b6cc0b2bff43e958d5ca2d574fe",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右下甩入",
+   "category": "video_in",
+   "resource_id": "6739395718223499787",
+   "effect_id": "431640",
+   "md5": "f821a402edb042a9d68d825cb804ac6e",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右滑动",
+   "category": "video_in",
+   "resource_id": "6798333076469453320",
+   "effect_id": "624743",
+   "md5": "47da2c90ea02fe7fe43964d6f1a4763e",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右甩入",
+   "category": "video_in",
+   "resource_id": "6739338727866241539",
+   "effect_id": "431636",
+   "md5": "228f76b86355e74087a9a80647236b88",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右转入",
+   "category": "video_in",
+   "resource_id": "6805019065761927694",
+   "effect_id": "638825",
+   "md5": "6c3e6841393ea481e24f9609795ffdad",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左上甩入",
+   "category": "video_in",
+   "resource_id": "6740122563692728844",
+   "effect_id": "431648",
+   "md5": "aa97897803351debd46c9182132c64c5",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左下甩入",
+   "category": "video_in",
+   "resource_id": "6739395445346275853",
+   "effect_id": "431642",
+   "md5": "269d5e19ed83faa5f5c72a1401e4564b",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左滑动",
+   "category": "video_in",
+   "resource_id": "6798332871267324423",
+   "effect_id": "624747",
+   "md5": "5b60ce256ff3e027d8faac4cbf9b333a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左转入",
+   "category": "video_in",
+   "resource_id": "6816560956647150093",
+   "effect_id": "699157",
+   "md5": "154e410f1e8b2e36a30ff4d5201c8146",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "左右抖动",
+   "category": "video_in",
+   "resource_id": "6739418540421419524",
+   "effect_id": "431654",
+   "md5": "7572d7461e38d73c578aa8e4dca7163a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "抖动下降",
+   "category": "video_in",
+   "resource_id": "6991764455931515422",
+   "effect_id": "1206320",
+   "md5": "4e6015e353a96bce299925a8c9fbc1d9",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "折叠开幕",
+   "category": "video_in",
+   "resource_id": "7239273897491698232",
+   "effect_id": "14506065",
+   "md5": "1a5f55beade9f0bcfc16abb0cc048bb0",
+   "duration_s": 1.5,
+   "vip": false
+  },
+  {
+   "name": "放大",
+   "category": "video_in",
+   "resource_id": "6798332733694153230",
+   "effect_id": "624751",
+   "md5": "028a77e121c22a4dd130a46a0ed90714",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "斜切",
+   "category": "video_in",
+   "resource_id": "7210657307938525751",
+   "effect_id": "10696371",
+   "md5": "a385761197d457f4599d231421045230",
+   "duration_s": 0.7,
+   "vip": false
+  },
+  {
+   "name": "旋转",
+   "category": "video_in",
+   "resource_id": "6798334070653719054",
+   "effect_id": "624731",
+   "md5": "1b4ac2773d9c05ffb34dca05cf91b030",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "旋转开幕",
+   "category": "video_in",
+   "resource_id": "7186944542409495099",
+   "effect_id": "8295043",
+   "md5": "407822a27a67612c3caa3e4223aa32d3",
+   "duration_s": 1.0,
+   "vip": false
+  },
+  {
+   "name": "渐显",
+   "category": "video_in",
+   "resource_id": "6798320778182922760",
+   "effect_id": "624705",
+   "md5": "ee269b77e45a2466bd3e9cab0cff7137",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "漩涡旋转",
+   "category": "video_in",
+   "resource_id": "6782010677520241165",
+   "effect_id": "703281",
+   "md5": "edc6024d7570bc32b857956c1535209f",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "缩小",
+   "category": "video_in",
+   "resource_id": "6798332584276267527",
+   "effect_id": "624755",
+   "md5": "280a82a500b34c3d84b078b2475803ff",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "翻入",
+   "category": "video_in",
+   "resource_id": "7452407076417966619",
+   "effect_id": "98430529",
+   "md5": "bd0a96cbfbb58eb67c5f4e86f537b858",
+   "duration_s": 1.17,
+   "vip": false
+  },
+  {
+   "name": "跳转开幕",
+   "category": "video_in",
+   "resource_id": "7279999334001676857",
+   "effect_id": "23185431",
+   "md5": "817876a62d2d05e4eef9ac4cfa9c70fe",
+   "duration_s": 0.733,
+   "vip": false
+  },
+  {
+   "name": "轻微抖动",
+   "category": "video_in",
+   "resource_id": "6739418227031413256",
+   "effect_id": "431664",
+   "md5": "7ec99bda70fa6922395d65235991f9e5",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "轻微抖动 II",
+   "category": "video_in",
+   "resource_id": "6739418677910704651",
+   "effect_id": "431650",
+   "md5": "8e29ab0a86dac5719300064821e8b63d",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "轻微抖动 III",
+   "category": "video_in",
+   "resource_id": "6781683302672634382",
+   "effect_id": "503136",
+   "md5": "e25fa4efce8d2c62016bc11a0e0d4904",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "轻微放大",
+   "category": "video_in",
+   "resource_id": "6800268825611735559",
+   "effect_id": "629085",
+   "md5": "a8eddffa64b3bf8b6befe1e4e6e91df9",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "钟摆",
+   "category": "video_in",
+   "resource_id": "6803260897117606414",
+   "effect_id": "636115",
+   "md5": "31439e9447cd9709309fd44a22c1ad1c",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "镜像翻转",
+   "category": "video_in",
+   "resource_id": "6797338697625768455",
+   "effect_id": "646003",
+   "md5": "55ec076a5d62f7e80655e60c43f68f80",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "雨刷",
+   "category": "video_in",
+   "resource_id": "6802871256849846791",
+   "effect_id": "634681",
+   "md5": "3d08753b4ef1c5b6cd560872c13f25ad",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "雨刷 II",
+   "category": "video_in",
+   "resource_id": "6805748897768542727",
+   "effect_id": "640101",
+   "md5": "aef16d1fb0f1275265a780b309628d32",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "2024",
+   "category": "video_in",
+   "resource_id": "7309774750677471794",
+   "effect_id": "33056565",
+   "md5": "d68370ce25f28ec80d9c0bb7e51e2324",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "2025",
+   "category": "video_in",
+   "resource_id": "7446306216038371891",
+   "effect_id": "95801149",
+   "md5": "58944f40a06bd8f495878ecdcb571345",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "PASSION",
+   "category": "video_in",
+   "resource_id": "7432237078705869362",
+   "effect_id": "88544178",
+   "md5": "a080de8fb1526e31a9dee3e45e459c4e",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "三屏下滑",
+   "category": "video_in",
+   "resource_id": "7436273289170784818",
+   "effect_id": "90036560",
+   "md5": "381d876d9928eb62bde9747611283907",
+   "duration_s": 1.83,
+   "vip": true
+  },
+  {
+   "name": "三屏切闪",
+   "category": "video_in",
+   "resource_id": "7434412782289687066",
+   "effect_id": "89308508",
+   "md5": "c75441422682a6328f53c83b67d30979",
+   "duration_s": 1.04,
+   "vip": true
+  },
+  {
+   "name": "九宫格",
+   "category": "video_in",
+   "resource_id": "7434746460186350090",
+   "effect_id": "90178902",
+   "md5": "9eb29d05c1cd6329ec504d4fa2c57b09",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "交叉震动",
+   "category": "video_in",
+   "resource_id": "7222990639984546360",
+   "effect_id": "12309329",
+   "md5": "cde910202607be12ac747e2e76316e7f",
+   "duration_s": 0.833,
+   "vip": true
+  },
+  {
+   "name": "交错开幕",
+   "category": "video_in",
+   "resource_id": "7280797339042714169",
+   "effect_id": "23387955",
+   "md5": "123322fa9ce7c37f0c2c35819f00b524",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "侧滑",
+   "category": "video_in",
+   "resource_id": "7239559299196785209",
+   "effect_id": "14524393",
+   "md5": "c67d95e820752346af44e2cb515c0115",
+   "duration_s": 0.6,
+   "vip": true
+  },
+  {
+   "name": "便利贴",
+   "category": "video_in",
+   "resource_id": "7379456870265655859",
+   "effect_id": "70486392",
+   "md5": "06613663efa8ef29beadf8746019c823",
+   "duration_s": 0.9,
+   "vip": true
+  },
+  {
+   "name": "冬季雪花",
+   "category": "video_in",
+   "resource_id": "7447044440868262451",
+   "effect_id": "96136129",
+   "md5": "088d30b9eee734c026dcb2d8f11618f4",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "冰块",
+   "category": "video_in",
+   "resource_id": "7413325383308677683",
+   "effect_id": "82268315",
+   "md5": "2224a7b3f79152b77566727a1290f706",
+   "duration_s": 1.3,
+   "vip": true
+  },
+  {
+   "name": "冰雪融化",
+   "category": "video_in",
+   "resource_id": "7447044440868278794",
+   "effect_id": "96136131",
+   "md5": "0508ed7e6fe8ff42ab78164ffb629836",
+   "duration_s": 2.92,
+   "vip": true
+  },
+  {
+   "name": "冲撞",
+   "category": "video_in",
+   "resource_id": "7215530662986519096",
+   "effect_id": "11320895",
+   "md5": "aeadb248c06d074a2d98f425a57999f0",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "分屏横移",
+   "category": "video_in",
+   "resource_id": "7257878167023522365",
+   "effect_id": "18746326",
+   "md5": "dcadf2284399fe6200f77fad9a1ec41a",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "分屏组合",
+   "category": "video_in",
+   "resource_id": "7434746460186366515",
+   "effect_id": "89406819",
+   "md5": "2defa48676a2b511bbb333ca7d69d72c",
+   "duration_s": 2.96,
+   "vip": true
+  },
+  {
+   "name": "分屏翻转",
+   "category": "video_in",
+   "resource_id": "7257782721575916088",
+   "effect_id": "18711457",
+   "md5": "013f6255cb0672198f26962bff3f788b",
+   "duration_s": 0.7,
+   "vip": true
+  },
+  {
+   "name": "分身模糊",
+   "category": "video_in",
+   "resource_id": "7434746460186350131",
+   "effect_id": "89406818",
+   "md5": "3573d7a9a1fa61187b074920225113df",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "划水",
+   "category": "video_in",
+   "resource_id": "7226632607939695161",
+   "effect_id": "12811781",
+   "md5": "57a259c58a4daddacc897c75ec9c10a4",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "区域色块滑动",
+   "category": "video_in",
+   "resource_id": "7436273288608748042",
+   "effect_id": "90036562",
+   "md5": "c6f4273c83dfdedaf158bb5e337dce56",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "十字震动",
+   "category": "video_in",
+   "resource_id": "7352824361625063987",
+   "effect_id": "54686020",
+   "md5": "33d4a2ff79aa2fb88fadd45aee1998e9",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "卡片扫光",
+   "category": "video_in",
+   "resource_id": "7437386424032186931",
+   "effect_id": "90546137",
+   "md5": "9f873b0475f78fe43bbc5f9d58cbcbf7",
+   "duration_s": 1.83,
+   "vip": true
+  },
+  {
+   "name": "发光矩形",
+   "category": "video_in",
+   "resource_id": "7346511208171704841",
+   "effect_id": "51093680",
+   "md5": "64852509d7cb2a578469b3438b94df52",
+   "duration_s": 1.033,
+   "vip": true
+  },
+  {
+   "name": "变速扩大",
+   "category": "video_in",
+   "resource_id": "7450031573954466314",
+   "effect_id": "97484920",
+   "md5": "60a1846c0d3b9fc2e695f8fa442a1061",
+   "duration_s": 0.96,
+   "vip": true
+  },
+  {
+   "name": "变速时空",
+   "category": "video_in",
+   "resource_id": "7437386424036364850",
+   "effect_id": "90546138",
+   "md5": "71b1183be83d398f726b090d3fc7b00d",
+   "duration_s": 1.21,
+   "vip": true
+  },
+  {
+   "name": "向上滚动",
+   "category": "video_in",
+   "resource_id": "7312341574988337690",
+   "effect_id": "34388476",
+   "md5": "14e7c85bfa04ecbacc1e63ee386840b7",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "向上闪入",
+   "category": "video_in",
+   "resource_id": "7273389803532456504",
+   "effect_id": "21816946",
+   "md5": "ecaffca7c7e1d7744fa296a29f65b366",
+   "duration_s": 0.7,
+   "vip": true
+  },
+  {
+   "name": "向下甩动",
+   "category": "video_in",
+   "resource_id": "7338320641306661410",
+   "effect_id": "47050546",
+   "md5": "060ee66b7f59d3d2c8064be5ae32171c",
+   "duration_s": 1.4,
+   "vip": true
+  },
+  {
+   "name": "四屏转换",
+   "category": "video_in",
+   "resource_id": "7341283787143123507",
+   "effect_id": "48492378",
+   "md5": "fdd9abc8f2abadc0ae6e909779f282e6",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "圆形开幕",
+   "category": "video_in",
+   "resource_id": "7218210014949806647",
+   "effect_id": "11680735",
+   "md5": "2c171ce2c85042bb518cbdc08ced9709",
+   "duration_s": 0.9,
+   "vip": true
+  },
+  {
+   "name": "多层环形",
+   "category": "video_in",
+   "resource_id": "7329444938960081460",
+   "effect_id": "42686363",
+   "md5": "54801ad31b13853ad1e3ccf945e89973",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "多屏分割I",
+   "category": "video_in",
+   "resource_id": "7434055685572137509",
+   "effect_id": "89192703",
+   "md5": "945cf7d06a8e4cb96900930b8f53b153",
+   "duration_s": 1.42,
+   "vip": true
+  },
+  {
+   "name": "多屏分割II",
+   "category": "video_in",
+   "resource_id": "7434055685572137499",
+   "effect_id": "89192705",
+   "md5": "8772c91f6a723135cee240f40e7c866c",
+   "duration_s": 1.83,
+   "vip": true
+  },
+  {
+   "name": "多维空间",
+   "category": "video_in",
+   "resource_id": "7449596462645645850",
+   "effect_id": "97260799",
+   "md5": "905ade2435f618aa8a43a8a63093ac89",
+   "duration_s": 1.38,
+   "vip": true
+  },
+  {
+   "name": "展开",
+   "category": "video_in",
+   "resource_id": "7221413342257091133",
+   "effect_id": "12088589",
+   "md5": "553acdb325d76533d6ecbd6d621d9b9e",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "幸运圣诞树",
+   "category": "video_in",
+   "resource_id": "7447044441371578906",
+   "effect_id": "96136128",
+   "md5": "8f367e116b1b08096d810239e5901626",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "开辟2025",
+   "category": "video_in",
+   "resource_id": "7461839463879021083",
+   "effect_id": "101958682",
+   "md5": "cc2e0b3ccac6d3c77b4bd6f4004a2f78",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "弹力分割",
+   "category": "video_in",
+   "resource_id": "7267827357627454013",
+   "effect_id": "35994464",
+   "md5": "9f5878effce0a857900a4f050ea52318",
+   "duration_s": 1.06,
+   "vip": true
+  },
+  {
+   "name": "弹近",
+   "category": "video_in",
+   "resource_id": "7314144465944318502",
+   "effect_id": "35289246",
+   "md5": "30c62d3ccb969173e5fa43511894116b",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "录像带分屏",
+   "category": "video_in",
+   "resource_id": "7436273288600359474",
+   "effect_id": "90036561",
+   "md5": "6408ea1b75c87ae2e38b2aed16669434",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "心形放大",
+   "category": "video_in",
+   "resource_id": "7042968847070007844",
+   "effect_id": "1487080",
+   "md5": "3bb1bb084e5ebf25e67fc078d3c6a119",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "快速翻页",
+   "category": "video_in",
+   "resource_id": "7296381392340914715",
+   "effect_id": "27878991",
+   "md5": "6e1d71ff694a87526f9c5bb2c01c927d",
+   "duration_s": 0.167,
+   "vip": true
+  },
+  {
+   "name": "手写云朵",
+   "category": "video_in",
+   "resource_id": "7468589903001948681",
+   "effect_id": "104144357",
+   "md5": "7a0c9770e836caeb1c815acbb4e5f3f5",
+   "duration_s": 1.53,
+   "vip": true
+  },
+  {
+   "name": "手机倒数",
+   "category": "video_in",
+   "resource_id": "7448898555617497610",
+   "effect_id": "97032631",
+   "md5": "276125acc604618051e1bd314beb51d3",
+   "duration_s": 6.92,
+   "vip": true
+  },
+  {
+   "name": "扫描",
+   "category": "video_in",
+   "resource_id": "7312335732721324554",
+   "effect_id": "34385508",
+   "md5": "191401f0b79c28d7569dfc356ba827b6",
+   "duration_s": 0.6,
+   "vip": true
+  },
+  {
+   "name": "抖动变焦",
+   "category": "video_in",
+   "resource_id": "7156911481563386381",
+   "effect_id": "5414507",
+   "md5": "04365018fdc27b7e1175b709a739f800",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "抖动横移",
+   "category": "video_in",
+   "resource_id": "7265946978792510010",
+   "effect_id": "20437845",
+   "md5": "e4951e1d7abcdbd4e8bf1cf33430def7",
+   "duration_s": 0.567,
+   "vip": true
+  },
+  {
+   "name": "报纸拼贴",
+   "category": "video_in",
+   "resource_id": "7449589619034690074",
+   "effect_id": "97255882",
+   "md5": "2f6b5f1c14c895aa722a73de7a5b8a46",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "报纸拼贴Ⅱ",
+   "category": "video_in",
+   "resource_id": "7449589619038884390",
+   "effect_id": "97255883",
+   "md5": "f02f54523dc3088f4d86b2360009b795",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "拉丝滑入",
+   "category": "video_in",
+   "resource_id": "7112725640901562887",
+   "effect_id": "3179668",
+   "md5": "913b99e9012d50f629c59a31e030b143",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "拼图",
+   "category": "video_in",
+   "resource_id": "7369889381357720102",
+   "effect_id": "64963350",
+   "md5": "4b721a1559eb3451d6cc358468537c49",
+   "duration_s": 1.067,
+   "vip": true
+  },
+  {
+   "name": "探灯聚焦",
+   "category": "video_in",
+   "resource_id": "7435897594074649114",
+   "effect_id": "89895075",
+   "md5": "7ec962a4e0a18e6058b890ff3cfa5f4f",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "斜向拉丝",
+   "category": "video_in",
+   "resource_id": "7360531434487943743",
+   "effect_id": "58777551",
+   "md5": "60ba474a0460cb7e999830c02943e977",
+   "duration_s": 0.667,
+   "vip": true
+  },
+  {
+   "name": "旋转圆球",
+   "category": "video_in",
+   "resource_id": "7380298290140549647",
+   "effect_id": "70989966",
+   "md5": "19b93b0edea19a73d2cf7f818ace3265",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "时间倒计时",
+   "category": "video_in",
+   "resource_id": "7448898555617481242",
+   "effect_id": "97032629",
+   "md5": "68b1e9bfc8e536dbe58411bb5ceee60b",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "晃动抽帧",
+   "category": "video_in",
+   "resource_id": "7435897594070438438",
+   "effect_id": "89895076",
+   "md5": "2e2a13b5a090fc91017dd5152d04a682",
+   "duration_s": 2.96,
+   "vip": true
+  },
+  {
+   "name": "曝光放射",
+   "category": "video_in",
+   "resource_id": "7158737452939612703",
+   "effect_id": "5529363",
+   "md5": "09df65728356189436974e08c42bc578",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "果冻 I",
+   "category": "video_in",
+   "resource_id": "7171640017574433294",
+   "effect_id": "6725401",
+   "md5": "4ef7f9da6b1331109620381229d55429",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "果冻 II",
+   "category": "video_in",
+   "resource_id": "7171690870788329992",
+   "effect_id": "6732061",
+   "md5": "01d346b0f37b87c25c17a53309189432",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "枫叶遮罩",
+   "category": "video_in",
+   "resource_id": "7436273288612942363",
+   "effect_id": "90036564",
+   "md5": "877f92396eab2601eaca2fb422dd8d78",
+   "duration_s": 2.3,
+   "vip": true
+  },
+  {
+   "name": "模糊聚焦",
+   "category": "video_in",
+   "resource_id": "7337937899704291866",
+   "effect_id": "46838778",
+   "md5": "38841ccaef6186af6d516eeea116b3c6",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "横向模糊",
+   "category": "video_in",
+   "resource_id": "7301896031673782835",
+   "effect_id": "29805902",
+   "md5": "b8b953ad94b16c47601af887d4ccc8c9",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "水墨",
+   "category": "video_in",
+   "resource_id": "7321672946466951731",
+   "effect_id": "39180627",
+   "md5": "9c74b6af409178e996b8e0ed792568bf",
+   "duration_s": 2.433,
+   "vip": true
+  },
+  {
+   "name": "水滴遮罩",
+   "category": "video_in",
+   "resource_id": "7441475431309513267",
+   "effect_id": "93637608",
+   "md5": "710525364edbf1465373b6e14c83baba",
+   "duration_s": 1.96,
+   "vip": true
+  },
+  {
+   "name": "油画描边变色",
+   "category": "video_in",
+   "resource_id": "7439276108022813193",
+   "effect_id": "92053880",
+   "md5": "6284442b7ed8abd5d8e8f6614f97b37e",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "波纹弹动",
+   "category": "video_in",
+   "resource_id": "7345731405663441460",
+   "effect_id": "50640360",
+   "md5": "b29c4c4dbac023b27bac5d32e642f6bb",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "流金",
+   "category": "video_in",
+   "resource_id": "7322367212142989850",
+   "effect_id": "39438403",
+   "md5": "6654a74eb923c201fe18765f18d4b367",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "游蛇开幕",
+   "category": "video_in",
+   "resource_id": "7461845576447955506",
+   "effect_id": "101962292",
+   "md5": "22c162cc37bdf21a5a15421950b68ce4",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "滑片滑动",
+   "category": "video_in",
+   "resource_id": "7447351620641247781",
+   "effect_id": "96240861",
+   "md5": "c0dfe6ccb8f4c5e08a4607fdd10f18db",
+   "duration_s": 1.4,
+   "vip": true
+  },
+  {
+   "name": "灼烧出现",
+   "category": "video_in",
+   "resource_id": "7447044441388356106",
+   "effect_id": "96136130",
+   "md5": "37f3e9ceaabb3b3a50a353d223149ba3",
+   "duration_s": 2.88,
+   "vip": true
+  },
+  {
+   "name": "点开",
+   "category": "video_in",
+   "resource_id": "7436667461837001267",
+   "effect_id": "90252347",
+   "md5": "d96f9c34b6cb885e6e15bb7ddeceac96",
+   "duration_s": 1.3,
+   "vip": true
+  },
+  {
+   "name": "烟雾弹",
+   "category": "video_in",
+   "resource_id": "7226641244938572346",
+   "effect_id": "12815013",
+   "md5": "8c5e4642b824c252b5a556bbbcbae767",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "照片回忆",
+   "category": "video_in",
+   "resource_id": "7436273289170784806",
+   "effect_id": "90036563",
+   "md5": "991dbb7aaa14639551cdca16c0883ad7",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "爱心碰撞",
+   "category": "video_in",
+   "resource_id": "7327872475453198848",
+   "effect_id": "41910725",
+   "md5": "119e873890708ee4817c9778dcb20b69",
+   "duration_s": 2.667,
+   "vip": true
+  },
+  {
+   "name": "玫瑰",
+   "category": "video_in",
+   "resource_id": "7397370569856913947",
+   "effect_id": "77061084",
+   "md5": "c3988af5cd8a2ac4e70974fa84cf732a",
+   "duration_s": 1.533,
+   "vip": true
+  },
+  {
+   "name": "玻璃聚集",
+   "category": "video_in",
+   "resource_id": "7340265236101861915",
+   "effect_id": "48072242",
+   "md5": "68c8e8f1eba4f4b2e3d35472f8b4822c",
+   "duration_s": 1.7,
+   "vip": true
+  },
+  {
+   "name": "画出爱心",
+   "category": "video_in",
+   "resource_id": "7248901535894082105",
+   "effect_id": "16211481",
+   "md5": "6e5cdc1e7ece582da904ac520440e88a",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "画面擦除",
+   "category": "video_in",
+   "resource_id": "7448898555617481226",
+   "effect_id": "97032630",
+   "md5": "a37e8b30f8debf2be5c931369dee8408",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "砸出波纹",
+   "category": "video_in",
+   "resource_id": "7255594501694034490",
+   "effect_id": "18159482",
+   "md5": "644483b024fc852955dd807da067d8e9",
+   "duration_s": 1.56,
+   "vip": true
+  },
+  {
+   "name": "神奇弹窗",
+   "category": "video_in",
+   "resource_id": "7467842885740663306",
+   "effect_id": "103860744",
+   "md5": "b2a515917204b3170e9f62a744b5cabd",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "空间扭曲",
+   "category": "video_in",
+   "resource_id": "7298688232294715931",
+   "effect_id": "28693486",
+   "md5": "da3a08519a9315e3625173b71a4d8ee3",
+   "duration_s": 1.16,
+   "vip": true
+  },
+  {
+   "name": "立体交叉",
+   "category": "video_in",
+   "resource_id": "7434746460190544435",
+   "effect_id": "89406816",
+   "md5": "37139f633f7571596e353fc87aa05e48",
+   "duration_s": 0.67,
+   "vip": true
+  },
+  {
+   "name": "立体翻转",
+   "category": "video_in",
+   "resource_id": "7346505124820292150",
+   "effect_id": "51089258",
+   "md5": "bad88fa72b42b3c12099c31654575952",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "立方分体",
+   "category": "video_in",
+   "resource_id": "7402167652220670514",
+   "effect_id": "78751449",
+   "md5": "d0b7a46baedbeea7461f75308b2f45e4",
+   "duration_s": 1.8,
+   "vip": true
+  },
+  {
+   "name": "竖向拼接",
+   "category": "video_in",
+   "resource_id": "7434412782302269962",
+   "effect_id": "89308509",
+   "md5": "d52a15d1d7d21a8b3e74496e048d708b",
+   "duration_s": 2.46,
+   "vip": true
+  },
+  {
+   "name": "粒子爱心",
+   "category": "video_in",
+   "resource_id": "7468589731727544882",
+   "effect_id": "104144327",
+   "md5": "567e5354ca37d56d1bceb25db0b31961",
+   "duration_s": 3.0,
+   "vip": true
+  },
+  {
+   "name": "翻书",
+   "category": "video_in",
+   "resource_id": "7452662871550333477",
+   "effect_id": "98557334",
+   "md5": "18d7c2ae3935e215ab347f57412511ba",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "翻卡",
+   "category": "video_in",
+   "resource_id": "7431502518753956403",
+   "effect_id": "88299576",
+   "md5": "3a81e284b4864161bf8a0dd1ecbc2d02",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "老电视",
+   "category": "video_in",
+   "resource_id": "7290754106417746491",
+   "effect_id": "26091602",
+   "md5": "4cbe6bdc6da704e481a40f44266cee0b",
+   "duration_s": 1.4,
+   "vip": true
+  },
+  {
+   "name": "聚合",
+   "category": "video_in",
+   "resource_id": "7303524763589153306",
+   "effect_id": "30391788",
+   "md5": "c3293067129322c884d0865b99cb11bd",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "能量立方",
+   "category": "video_in",
+   "resource_id": "7359472053998588425",
+   "effect_id": "58285135",
+   "md5": "301b4ffff8510c87b7174161b2642ca3",
+   "duration_s": 1.333,
+   "vip": true
+  },
+  {
+   "name": "脉冲",
+   "category": "video_in",
+   "resource_id": "7379909514847326732",
+   "effect_id": "70764198",
+   "md5": "ae7fac0214409e340db6a600e97303da",
+   "duration_s": 0.9,
+   "vip": true
+  },
+  {
+   "name": "色散波纹",
+   "category": "video_in",
+   "resource_id": "7299029942870741542",
+   "effect_id": "28824874",
+   "md5": "2ce459ce040280d7c4f36ab78a3612e5",
+   "duration_s": 0.83,
+   "vip": true
+  },
+  {
+   "name": "荧光爆闪",
+   "category": "video_in",
+   "resource_id": "7347948517471556096",
+   "effect_id": "51992419",
+   "md5": "84d6cfae125a71855b500604748f1e19",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "负片闪屏",
+   "category": "video_in",
+   "resource_id": "7434055685576331785",
+   "effect_id": "89192704",
+   "md5": "4539b2ba073f714f67c5d55846969b3d",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "转圈圈",
+   "category": "video_in",
+   "resource_id": "7246643852411408952",
+   "effect_id": "15726741",
+   "md5": "f2c920e366c3c733f1d86a8473aff310",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "迷幻流光",
+   "category": "video_in",
+   "resource_id": "7395178910083715638",
+   "effect_id": "76511457",
+   "md5": "07fc56d6ae64a5569a4d29241ae4ed4e",
+   "duration_s": 1.8,
+   "vip": true
+  },
+  {
+   "name": "金沙",
+   "category": "video_in",
+   "resource_id": "7441139821747114523",
+   "effect_id": "93472473",
+   "md5": "e0a60138ee45dbbaffe99037bea1f649",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "钱币遮罩",
+   "category": "video_in",
+   "resource_id": "7461942207482696242",
+   "effect_id": "102049088",
+   "md5": "cb8e64195318a300777e13b2c0222733",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "镜面组成",
+   "category": "video_in",
+   "resource_id": "7350282290984915491",
+   "effect_id": "53224111",
+   "md5": "b7bc1db5951ce591ae1597930163300e",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "闪屏",
+   "category": "video_in",
+   "resource_id": "7242155802209817147",
+   "effect_id": "14904085",
+   "md5": "c2f368ce853ab863a12c686bb99bb41e",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "闪现",
+   "category": "video_in",
+   "resource_id": "7210363235906622012",
+   "effect_id": "10668047",
+   "md5": "6a680c49cd11a05f3eb0e5a3fed165f7",
+   "duration_s": 0.44,
+   "vip": true
+  },
+  {
+   "name": "闪电分屏",
+   "category": "video_in",
+   "resource_id": "7437386424032170505",
+   "effect_id": "90546139",
+   "md5": "1c963b5daf0a51d593daa20f721bf00e",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "雪花遮罩",
+   "category": "video_in",
+   "resource_id": "7442590758760092198",
+   "effect_id": "94174749",
+   "md5": "7e3d713bc1cbca8485fafe45e991926f",
+   "duration_s": 1.75,
+   "vip": true
+  },
+  {
+   "name": "震动波纹",
+   "category": "video_in",
+   "resource_id": "7307196313148330547",
+   "effect_id": "31806105",
+   "md5": "95760b6f7efe0016546e38852a981f49",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "震撼倒数",
+   "category": "video_in",
+   "resource_id": "7446622476928291365",
+   "effect_id": "95912088",
+   "md5": "1de39133273edb6e9d4fe9d09fa1a614",
+   "duration_s": 3.0,
+   "vip": true
+  },
+  {
+   "name": "震波",
+   "category": "video_in",
+   "resource_id": "7115301367786246692",
+   "effect_id": "3297068",
+   "md5": "8aaccb8f112aa3cacd80fa79fcc1690f",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "震波 II",
+   "category": "video_in",
+   "resource_id": "7211042099737662009",
+   "effect_id": "10744265",
+   "md5": "f8f236cd1279af3680bcc71dda889d97",
+   "duration_s": 0.833,
+   "vip": true
+  },
+  {
+   "name": "震波 III",
+   "category": "video_in",
+   "resource_id": "7288985830578721336",
+   "effect_id": "25545977",
+   "md5": "3be0a1f04cf38bf05ed301ebaeb47ef8",
+   "duration_s": 1.7,
+   "vip": true
+  },
+  {
+   "name": "鞭炮遮罩",
+   "category": "video_in",
+   "resource_id": "7461915994215158299",
+   "effect_id": "102019912",
+   "md5": "f6f0ab25c8fcfedaaf9eef2810f904ed",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "音量大小",
+   "category": "video_in",
+   "resource_id": "7462226433700532745",
+   "effect_id": "102188589",
+   "md5": "b14936183e0d2fe5f93bd9dd69c35d7f",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "飞近",
+   "category": "video_in",
+   "resource_id": "7394717122653327910",
+   "effect_id": "76385331",
+   "md5": "494edea80cf2f3df65f35b1ea01bdd11",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "马赛克",
+   "category": "video_in",
+   "resource_id": "7282703408383922745",
+   "effect_id": "23885083",
+   "md5": "273c4952c915c9250f0b9edadac34148",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "魔方 III",
+   "category": "video_in",
+   "resource_id": "7432135739745243686",
+   "effect_id": "88465764",
+   "md5": "180602469260e0c4d602d42b07077dd7",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "魔法粒子I",
+   "category": "video_in",
+   "resource_id": "7446622476928291379",
+   "effect_id": "95912089",
+   "md5": "5acc75119eb941cf0645b69d2d0fdc7e",
+   "duration_s": 3.0,
+   "vip": true
+  },
+  {
+   "name": "魔法粒子II",
+   "category": "video_in",
+   "resource_id": "7446673584296038949",
+   "effect_id": "95966017",
+   "md5": "6daa910b7beacaa1fe83f0fe20a793f1",
+   "duration_s": 3.0,
+   "vip": true
+  },
+  {
+   "name": "黑白画中画",
+   "category": "video_in",
+   "resource_id": "7436273288608764442",
+   "effect_id": "90036559",
+   "md5": "3b710c8ca2702e2a42144d12ff5bd05e",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "Kira游动",
+   "category": "video_out",
+   "resource_id": "7312343337199997450",
+   "effect_id": "34389264",
+   "md5": "2cefeb684db271dc288ec225f0854264",
+   "duration_s": 2.267,
+   "vip": false
+  },
+  {
+   "name": "冰雪融化",
+   "category": "video_out",
+   "resource_id": "7447044440864068122",
+   "effect_id": "96136047",
+   "md5": "c3806ca50307f798df80d69543b14233",
+   "duration_s": 2.83,
+   "vip": false
+  },
+  {
+   "name": "向上滑动",
+   "category": "video_out",
+   "resource_id": "6798333612958683656",
+   "effect_id": "624737",
+   "md5": "43ef6ea305ccdd352da4b99ad32e38db",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上转出",
+   "category": "video_out",
+   "resource_id": "6818747115934585357",
+   "effect_id": "701963",
+   "md5": "1df50f9f9efc23d2851835537221b787",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上转出 II",
+   "category": "video_out",
+   "resource_id": "6818747169017696781",
+   "effect_id": "701965",
+   "md5": "c79f370e70e40c577391e4a59da76c70",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向下滑动",
+   "category": "video_out",
+   "resource_id": "6798333787986989576",
+   "effect_id": "624733",
+   "md5": "d39ba8884ffc4004118c2fa801d6ea97",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右滑动",
+   "category": "video_out",
+   "resource_id": "6798333350487527950",
+   "effect_id": "624741",
+   "md5": "b768f38810fc11df947c6196a6d882ec",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左滑动",
+   "category": "video_out",
+   "resource_id": "6798332972098392584",
+   "effect_id": "624745",
+   "md5": "2d14982cf9f87f4eda4e5443df0b4b9e",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "折叠闭幕",
+   "category": "video_out",
+   "resource_id": "7239273967310082621",
+   "effect_id": "14506017",
+   "md5": "340da8c2704438c157adff1a55f3df0f",
+   "duration_s": 1.5,
+   "vip": false
+  },
+  {
+   "name": "放大",
+   "category": "video_out",
+   "resource_id": "6798332801864176142",
+   "effect_id": "624749",
+   "md5": "01497dc221d288e623a10cac94a5ceca",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "斜切",
+   "category": "video_out",
+   "resource_id": "7210659943051956797",
+   "effect_id": "10697199",
+   "md5": "93fd7d9c4f059c26cd3681dd512c20ed",
+   "duration_s": 0.7,
+   "vip": false
+  },
+  {
+   "name": "旋转",
+   "category": "video_out",
+   "resource_id": "6798334141323547143",
+   "effect_id": "624729",
+   "md5": "ae8bdfafbae781ad29bc60b438ff461c",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "旋转闭幕",
+   "category": "video_out",
+   "resource_id": "6942482728335970823",
+   "effect_id": "1221132",
+   "md5": "b235b8a2a8647a211494856315cde2a9",
+   "duration_s": 1.0,
+   "vip": false
+  },
+  {
+   "name": "渐隐",
+   "category": "video_out",
+   "resource_id": "6798320902548230669",
+   "effect_id": "624707",
+   "md5": "07d916d9179660641ae0f427315c5591",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "漩涡旋转",
+   "category": "video_out",
+   "resource_id": "6778418947361346061",
+   "effect_id": "634701",
+   "md5": "1af131118c1c8f0f97898aeebcb4c38e",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "灼烧出现",
+   "category": "video_out",
+   "resource_id": "7447044440859873801",
+   "effect_id": "96136048",
+   "md5": "cfae1a683f11299f0c1d133d436b2746",
+   "duration_s": 2.96,
+   "vip": false
+  },
+  {
+   "name": "缩小",
+   "category": "video_out",
+   "resource_id": "6798332648814023181",
+   "effect_id": "624753",
+   "md5": "2ef923500a3c5501236774f26ea6855c",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "翻出",
+   "category": "video_out",
+   "resource_id": "7452359860659687986",
+   "effect_id": "98425486",
+   "md5": "a8e91c830363162a11e80acb6665e426",
+   "duration_s": 1.17,
+   "vip": false
+  },
+  {
+   "name": "跳转闭幕",
+   "category": "video_out",
+   "resource_id": "7280420767378969143",
+   "effect_id": "23302677",
+   "md5": "82992a12a8ae1227579be0f66d87d75f",
+   "duration_s": 0.733,
+   "vip": false
+  },
+  {
+   "name": "轻微放大",
+   "category": "video_out",
+   "resource_id": "6800268611807089166",
+   "effect_id": "629083",
+   "md5": "fb575b5c3655a74e8cccb6bdf5d54230",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "镜像翻转",
+   "category": "video_out",
+   "resource_id": "6738353628215513613",
+   "effect_id": "645999",
+   "md5": "a24594428fdd0c8078b74659fc1f2679",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "2024",
+   "category": "video_out",
+   "resource_id": "7311958876406944266",
+   "effect_id": "34158075",
+   "md5": "93bcb64554588e6f3a0a4ffffa0bb3b5",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "2025",
+   "category": "video_out",
+   "resource_id": "7446306392748593714",
+   "effect_id": "95801179",
+   "md5": "2717769c8ba0483349180e1c46e95baf",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "PASSION",
+   "category": "video_out",
+   "resource_id": "7432237078710063643",
+   "effect_id": "88544141",
+   "md5": "ed1934d9148fbc73e8edf76c7ddb45cd",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "三屏下滑",
+   "category": "video_out",
+   "resource_id": "7436273288604553766",
+   "effect_id": "90036503",
+   "md5": "11fafef6fa74aabd1c2b99bd29ee4f78",
+   "duration_s": 1.83,
+   "vip": true
+  },
+  {
+   "name": "三屏切闪",
+   "category": "video_out",
+   "resource_id": "7434412782293881395",
+   "effect_id": "89308379",
+   "md5": "604869cd6d8c9b0a932d2000c906d3c6",
+   "duration_s": 1.04,
+   "vip": true
+  },
+  {
+   "name": "九宫格",
+   "category": "video_out",
+   "resource_id": "7434746460190544411",
+   "effect_id": "89406874",
+   "md5": "f832a0fb8b57751e82f0ffcef0fb0317",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "交叉震动",
+   "category": "video_out",
+   "resource_id": "7223227564670587452",
+   "effect_id": "12330095",
+   "md5": "3a711c053dcadb7856d19778f72a58c1",
+   "duration_s": 0.466,
+   "vip": true
+  },
+  {
+   "name": "交错闭幕",
+   "category": "video_out",
+   "resource_id": "7280797214186672701",
+   "effect_id": "23387942",
+   "md5": "1804a8bb6a3eb61c8e5720428d4648e7",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "侧滑",
+   "category": "video_out",
+   "resource_id": "7239559574095663671",
+   "effect_id": "14524385",
+   "md5": "1a661b1d0728177d889353174bfb0bf8",
+   "duration_s": 0.4,
+   "vip": true
+  },
+  {
+   "name": "便利贴",
+   "category": "video_out",
+   "resource_id": "7379884133268328996",
+   "effect_id": "70741835",
+   "md5": "ce8f5846f77edba5099b042ef7b6958b",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "冬季雪花",
+   "category": "video_out",
+   "resource_id": "7447044440868262410",
+   "effect_id": "96136049",
+   "md5": "fe72ee1d6384b9f5a489a56beb5dacd6",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "冰块",
+   "category": "video_out",
+   "resource_id": "7413731112406487604",
+   "effect_id": "82396222",
+   "md5": "103cbd9c8058716c95bf41fd65a182a8",
+   "duration_s": 1.3,
+   "vip": true
+  },
+  {
+   "name": "冲撞",
+   "category": "video_out",
+   "resource_id": "7215555273501446716",
+   "effect_id": "11325221",
+   "md5": "16e01aa5454653bc89d3b1d8e86ce3a2",
+   "duration_s": 0.767,
+   "vip": true
+  },
+  {
+   "name": "分屏横移",
+   "category": "video_out",
+   "resource_id": "7257879855063110205",
+   "effect_id": "18746674",
+   "md5": "7382c7210c95548bfc88486be3964284",
+   "duration_s": 0.88,
+   "vip": true
+  },
+  {
+   "name": "分屏组合",
+   "category": "video_out",
+   "resource_id": "7434746460186350117",
+   "effect_id": "89406873",
+   "md5": "eacdb5c2875d937855253ffea04ac13e",
+   "duration_s": 2.96,
+   "vip": true
+  },
+  {
+   "name": "分屏翻转",
+   "category": "video_out",
+   "resource_id": "7259341241031070268",
+   "effect_id": "19063130",
+   "md5": "392b91fd262e9b95e1dcd18274297393",
+   "duration_s": 0.56,
+   "vip": true
+  },
+  {
+   "name": "分身模糊",
+   "category": "video_out",
+   "resource_id": "7434746460182155827",
+   "effect_id": "89406876",
+   "md5": "3ee97e0d0ed3a62f4b0d3a218e669418",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "划水",
+   "category": "video_out",
+   "resource_id": "7226632692354257445",
+   "effect_id": "12811717",
+   "md5": "f30ab9f83934eafedb4ee01a3d87a995",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "区域色块滑动",
+   "category": "video_out",
+   "resource_id": "7436273288604553755",
+   "effect_id": "90036504",
+   "md5": "0f266778630aeea62a69ed0dd471fff5",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "十字震动",
+   "category": "video_out",
+   "resource_id": "7352824282289803814",
+   "effect_id": "54685998",
+   "md5": "969e17d5d65494d0b10b9111d66802d8",
+   "duration_s": 0.533,
+   "vip": true
+  },
+  {
+   "name": "卡片扫光",
+   "category": "video_out",
+   "resource_id": "7437386424036381211",
+   "effect_id": "90546052",
+   "md5": "e2711c17d261ee1aef022bbb2110be51",
+   "duration_s": 1.83,
+   "vip": true
+  },
+  {
+   "name": "发光矩形",
+   "category": "video_out",
+   "resource_id": "7346510998771077659",
+   "effect_id": "51093596",
+   "md5": "ccac330a683da920a9638b597ce1f869",
+   "duration_s": 1.133,
+   "vip": true
+  },
+  {
+   "name": "变速扩大",
+   "category": "video_out",
+   "resource_id": "7450031573958660617",
+   "effect_id": "97484974",
+   "md5": "430709c96a8a5fb7cc6e7d36f5babf5b",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "变速时空",
+   "category": "video_out",
+   "resource_id": "7437386424027976230",
+   "effect_id": "90546051",
+   "md5": "9ef1912cc3f221218c32bc41bb61a548",
+   "duration_s": 1.21,
+   "vip": true
+  },
+  {
+   "name": "向上滚动",
+   "category": "video_out",
+   "resource_id": "7312341715220697650",
+   "effect_id": "34388502",
+   "md5": "92d44450f8557fc1d8d93eb6cbe2a832",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "向上闪出",
+   "category": "video_out",
+   "resource_id": "7273389599978689079",
+   "effect_id": "21816912",
+   "md5": "4e39075df8d20d1d938c5bf23b2604fb",
+   "duration_s": 0.7,
+   "vip": true
+  },
+  {
+   "name": "向下甩动",
+   "category": "video_out",
+   "resource_id": "7338638617322983976",
+   "effect_id": "47191669",
+   "md5": "178fe900252c316f5301d805a735ce8e",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "四屏转换",
+   "category": "video_out",
+   "resource_id": "7341284613165158921",
+   "effect_id": "48492502",
+   "md5": "cf7d3bd0e7973868861d1e466cb238eb",
+   "duration_s": 0.9,
+   "vip": true
+  },
+  {
+   "name": "圆形闭幕",
+   "category": "video_out",
+   "resource_id": "7218210114052821561",
+   "effect_id": "11680737",
+   "md5": "0acd6d992db52febb66a63a3cfc6ea00",
+   "duration_s": 0.9,
+   "vip": true
+  },
+  {
+   "name": "多层环形",
+   "category": "video_out",
+   "resource_id": "7329445038604161536",
+   "effect_id": "42686393",
+   "md5": "c684bdf866bada10acb647e5339397a3",
+   "duration_s": 1.633,
+   "vip": true
+  },
+  {
+   "name": "多屏分割I",
+   "category": "video_out",
+   "resource_id": "7434055685572153907",
+   "effect_id": "89192583",
+   "md5": "e1697eeef0685ec658e50900df941cf4",
+   "duration_s": 1.46,
+   "vip": true
+  },
+  {
+   "name": "多屏分割II",
+   "category": "video_out",
+   "resource_id": "7434055685572137482",
+   "effect_id": "89192581",
+   "md5": "f892339326d234719c3069399b6b3e76",
+   "duration_s": 2.04,
+   "vip": true
+  },
+  {
+   "name": "多维空间",
+   "category": "video_out",
+   "resource_id": "7449596462645662235",
+   "effect_id": "97260826",
+   "md5": "90d9f339bfada65f43af655eb0905427",
+   "duration_s": 1.38,
+   "vip": true
+  },
+  {
+   "name": "幕布",
+   "category": "video_out",
+   "resource_id": "7448986761297924618",
+   "effect_id": "97077809",
+   "md5": "b393d8f37b6df766bb7df35fca846169",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "幸运圣诞树",
+   "category": "video_out",
+   "resource_id": "7447044440868262450",
+   "effect_id": "96136050",
+   "md5": "177e050b5e468a62a4f36e7c7de7811c",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "弹力分割",
+   "category": "video_out",
+   "resource_id": "7343902820808004123",
+   "effect_id": "49678364",
+   "md5": "62adcd0cd61c98d0640e657e63b0be8a",
+   "duration_s": 1.06,
+   "vip": true
+  },
+  {
+   "name": "弹远",
+   "category": "video_out",
+   "resource_id": "7314925770181186075",
+   "effect_id": "35749432",
+   "md5": "310e6755e6441af5d3405bc80a3be26d",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "录像带分屏",
+   "category": "video_out",
+   "resource_id": "7436273288608748041",
+   "effect_id": "90036505",
+   "md5": "a7bead6f8b55f1cbcbfcffcbd88fb573",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "心形缩小",
+   "category": "video_out",
+   "resource_id": "7034346969086562824",
+   "effect_id": "1463778",
+   "md5": "677ec2564241df326a921fa9dc58bd81",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "快速翻页",
+   "category": "video_out",
+   "resource_id": "7296416099606729225",
+   "effect_id": "27895223",
+   "md5": "00b26549833daf565f2660d0abcb0462",
+   "duration_s": 0.2,
+   "vip": true
+  },
+  {
+   "name": "手写云朵",
+   "category": "video_out",
+   "resource_id": "7468589970832232997",
+   "effect_id": "104144380",
+   "md5": "e975928331a96536e27764fbc53f6315",
+   "duration_s": 1.53,
+   "vip": true
+  },
+  {
+   "name": "扫描",
+   "category": "video_out",
+   "resource_id": "7316816362305753609",
+   "effect_id": "36871694",
+   "md5": "a89a479b5228737e62ccd7e77059315f",
+   "duration_s": 0.633,
+   "vip": true
+  },
+  {
+   "name": "抖动变焦",
+   "category": "video_out",
+   "resource_id": "7153942002696983047",
+   "effect_id": "5188733",
+   "md5": "6e14698c240bfa454836d26eaa44d3bc",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "抖动横移",
+   "category": "video_out",
+   "resource_id": "7265946879060349477",
+   "effect_id": "20437843",
+   "md5": "bcebbe81fc2243a3685ab8e550e3415f",
+   "duration_s": 0.4,
+   "vip": true
+  },
+  {
+   "name": "折叠",
+   "category": "video_out",
+   "resource_id": "7221420528148419133",
+   "effect_id": "12091673",
+   "md5": "7968ce8b7391c3725f2b7667d0e0f80a",
+   "duration_s": 0.3,
+   "vip": true
+  },
+  {
+   "name": "报纸拼贴",
+   "category": "video_out",
+   "resource_id": "7449589619038884389",
+   "effect_id": "97255862",
+   "md5": "248c4117dda85e37e36b9174c7f7ec42",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "报纸拼贴Ⅱ",
+   "category": "video_out",
+   "resource_id": "7449589619038884378",
+   "effect_id": "97255861",
+   "md5": "1d139e5602c9b848ae55d3132739c0e5",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "拉丝滑出",
+   "category": "video_out",
+   "resource_id": "7114172789287817758",
+   "effect_id": "3240292",
+   "md5": "e3018d5ee625a58fdeaa5ccd75d0e2e2",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "拼图",
+   "category": "video_out",
+   "resource_id": "7369889275233440265",
+   "effect_id": "64963293",
+   "md5": "9e1b296804c2f10ce26fcf727d1dd9af",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "探灯聚焦",
+   "category": "video_out",
+   "resource_id": "7435897594074632730",
+   "effect_id": "89895171",
+   "md5": "3bd76848821228cc1c1a35e4da0f9ea8",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "斜向拉丝",
+   "category": "video_out",
+   "resource_id": "7360531353458184715",
+   "effect_id": "58777523",
+   "md5": "71a267bc37d3dc0afa3aaae12ec995e7",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "旋转圆球",
+   "category": "video_out",
+   "resource_id": "7381753028732260916",
+   "effect_id": "71750513",
+   "md5": "e824e3d74a50eba64dd87ac11b9bbfb8",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "晃动抽帧",
+   "category": "video_out",
+   "resource_id": "7435897594078827035",
+   "effect_id": "89895170",
+   "md5": "91c1553757cd96ea14e8cb88fc5d40be",
+   "duration_s": 2.96,
+   "vip": true
+  },
+  {
+   "name": "曝光放射",
+   "category": "video_out",
+   "resource_id": "7158753896624558628",
+   "effect_id": "5529791",
+   "md5": "70911371ae8ec475600c4e30c9db8994",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "枫叶遮罩",
+   "category": "video_out",
+   "resource_id": "7436273288608748058",
+   "effect_id": "90036506",
+   "md5": "b4061ff63d82958d6d828f54682b9527",
+   "duration_s": 2.3,
+   "vip": true
+  },
+  {
+   "name": "模糊聚焦",
+   "category": "video_out",
+   "resource_id": "7338742568592609801",
+   "effect_id": "47267179",
+   "md5": "2cf9380884a5e9853ecdbb4869b01b0e",
+   "duration_s": 0.833,
+   "vip": true
+  },
+  {
+   "name": "横向模糊",
+   "category": "video_out",
+   "resource_id": "7301943351320777267",
+   "effect_id": "29824130",
+   "md5": "294f0f8ecbe4b4a8b8f2c01f579739f1",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "水墨",
+   "category": "video_out",
+   "resource_id": "7322073757080621606",
+   "effect_id": "39326538",
+   "md5": "533ce039619091d6b9886c2c78ac4aa2",
+   "duration_s": 2.033,
+   "vip": true
+  },
+  {
+   "name": "水滴遮罩",
+   "category": "video_out",
+   "resource_id": "7441475431309513254",
+   "effect_id": "93637552",
+   "md5": "06ee7696792a5aa607cecc0d14e7dd91",
+   "duration_s": 1.96,
+   "vip": true
+  },
+  {
+   "name": "油画描边变色",
+   "category": "video_out",
+   "resource_id": "7439276108022813235",
+   "effect_id": "92053923",
+   "md5": "eb20d401959db40399b8fa89b27e7f38",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "波纹弹动",
+   "category": "video_out",
+   "resource_id": "7345803511390540288",
+   "effect_id": "50691424",
+   "md5": "660ff84eabd735769a72978914e8e82d",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "流金",
+   "category": "video_out",
+   "resource_id": "7322857522648322586",
+   "effect_id": "39682247",
+   "md5": "646fc008978735fbf5b5d3cde382fc22",
+   "duration_s": 1.133,
+   "vip": true
+  },
+  {
+   "name": "滑片滑动",
+   "category": "video_out",
+   "resource_id": "7447351620637037106",
+   "effect_id": "96240814",
+   "md5": "0e879f2bb18535b827df1e78eca89f90",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "烟雾弹",
+   "category": "video_out",
+   "resource_id": "7229149181762343484",
+   "effect_id": "13090999",
+   "md5": "e70e26e7aa770d0deedca54e3eac0323",
+   "duration_s": 0.9,
+   "vip": true
+  },
+  {
+   "name": "照片回忆",
+   "category": "video_out",
+   "resource_id": "7436273288612942386",
+   "effect_id": "90036502",
+   "md5": "b78111677093071510de457f1a8f2019",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "爱心碰撞",
+   "category": "video_out",
+   "resource_id": "7328249133079204352",
+   "effect_id": "42112174",
+   "md5": "1cf69aac7b9478f5628413aada8c0707",
+   "duration_s": 2.3,
+   "vip": true
+  },
+  {
+   "name": "玫瑰",
+   "category": "video_out",
+   "resource_id": "7397378784028004891",
+   "effect_id": "77061996",
+   "md5": "e19beddf933ed59e1f1d85c8273d9cb1",
+   "duration_s": 1.4,
+   "vip": true
+  },
+  {
+   "name": "玻璃爆开",
+   "category": "video_out",
+   "resource_id": "7347865496508699170",
+   "effect_id": "51922869",
+   "md5": "620f6fe34184e1f3cc2284d830c3d1e8",
+   "duration_s": 0.733,
+   "vip": true
+  },
+  {
+   "name": "画出爱心",
+   "category": "video_out",
+   "resource_id": "7248951676420231735",
+   "effect_id": "16231427",
+   "md5": "ad5c127255cc8f2c941f7406f8a36f19",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "画面擦除",
+   "category": "video_out",
+   "resource_id": "7448898555617497626",
+   "effect_id": "97032678",
+   "md5": "0ac1cfe94bb7f54b8a38dc0de67b05ca",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "砸出波纹",
+   "category": "video_out",
+   "resource_id": "7255599483226952249",
+   "effect_id": "18161234",
+   "md5": "87e9baa63de40d76f862bb8aa4349de3",
+   "duration_s": 1.366,
+   "vip": true
+  },
+  {
+   "name": "空间扭曲",
+   "category": "video_out",
+   "resource_id": "7298918355841323529",
+   "effect_id": "28775864",
+   "md5": "04c885b1dbbcf51bcc01e4df931bff72",
+   "duration_s": 0.93,
+   "vip": true
+  },
+  {
+   "name": "立体交叉",
+   "category": "video_out",
+   "resource_id": "7434746460190544394",
+   "effect_id": "89406875",
+   "md5": "75e703c9c10c62dfab467c17f0439261",
+   "duration_s": 0.67,
+   "vip": true
+  },
+  {
+   "name": "立体翻转",
+   "category": "video_out",
+   "resource_id": "7351333213068857892",
+   "effect_id": "53792520",
+   "md5": "82f13f68eb475cfaabaf2a674b50ac8a",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "立方合体",
+   "category": "video_out",
+   "resource_id": "7405509410396574242",
+   "effect_id": "79925188",
+   "md5": "75c1649483edeac1c8defd88b45839cf",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "竖向拼接",
+   "category": "video_out",
+   "resource_id": "7434412782285492773",
+   "effect_id": "89308380",
+   "md5": "3536cc7c83df33546ece9319b2fcd3ec",
+   "duration_s": 2.46,
+   "vip": true
+  },
+  {
+   "name": "粒子爱心",
+   "category": "video_out",
+   "resource_id": "7468589804356112946",
+   "effect_id": "104144349",
+   "md5": "1410ac0223ef9473376a151bcabacdfa",
+   "duration_s": 3.0,
+   "vip": true
+  },
+  {
+   "name": "翻卡",
+   "category": "video_out",
+   "resource_id": "7431509039437058586",
+   "effect_id": "88301520",
+   "md5": "bd316e6651f053f591dee39cc1460662",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "老电视",
+   "category": "video_out",
+   "resource_id": "7283429462924857914",
+   "effect_id": "24079477",
+   "md5": "50d67778f791d56b12ab5c6da30c37b6",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "能量立方",
+   "category": "video_out",
+   "resource_id": "7361364150229930506",
+   "effect_id": "59265410",
+   "md5": "f6c5b98ea69f3b2c3265bb3249973250",
+   "duration_s": 1.133,
+   "vip": true
+  },
+  {
+   "name": "脉冲",
+   "category": "video_out",
+   "resource_id": "7379909625870553654",
+   "effect_id": "70764127",
+   "md5": "f916cc354e9c5b80698d612397a0c4f7",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "色散波纹",
+   "category": "video_out",
+   "resource_id": "7305961286762762790",
+   "effect_id": "31248281",
+   "md5": "5477505f844e9bad12dc9074631564b1",
+   "duration_s": 0.767,
+   "vip": true
+  },
+  {
+   "name": "荧光爆闪",
+   "category": "video_out",
+   "resource_id": "7347994415576650255",
+   "effect_id": "52020801",
+   "md5": "6558ab016ce06546d3c380b43480baab",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "负片闪屏",
+   "category": "video_out",
+   "resource_id": "7434055685567943194",
+   "effect_id": "89192582",
+   "md5": "15fe80d4264c5a689efd712535ce51c7",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "转圈圈",
+   "category": "video_out",
+   "resource_id": "7246706359381529125",
+   "effect_id": "15754757",
+   "md5": "c03fc00075c5b7e53f8bdc0c6f5c360f",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "迷幻流光",
+   "category": "video_out",
+   "resource_id": "7395482925006852647",
+   "effect_id": "76594275",
+   "md5": "4095d8d554571c3356eefa787c7cdfe9",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "金沙",
+   "category": "video_out",
+   "resource_id": "7441139691694330378",
+   "effect_id": "93472419",
+   "md5": "8eb1d7a9fbcbc2c8df45affa0c13e8a9",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "钱币遮罩",
+   "category": "video_out",
+   "resource_id": "7461942340328886835",
+   "effect_id": "102049160",
+   "md5": "65b2eab128ce90c90193c62c29013f22",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "镜面拆分",
+   "category": "video_out",
+   "resource_id": "7405495700961628683",
+   "effect_id": "79917713",
+   "md5": "5e549cebedbc7a9453bfc24490b94e67",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "闪屏",
+   "category": "video_out",
+   "resource_id": "7243999104114627132",
+   "effect_id": "15215961",
+   "md5": "e4ef6b01ae37409046d089c73cd16702",
+   "duration_s": 0.833,
+   "vip": true
+  },
+  {
+   "name": "闪现",
+   "category": "video_out",
+   "resource_id": "7186978468087730749",
+   "effect_id": "8303609",
+   "md5": "f170e9020eaf5a6f6180c6fd30775400",
+   "duration_s": 0.25,
+   "vip": true
+  },
+  {
+   "name": "闪电分屏",
+   "category": "video_out",
+   "resource_id": "7437386424032170506",
+   "effect_id": "90546050",
+   "md5": "e9950ce2750bab69fe23a91b4e803473",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "雪花遮罩",
+   "category": "video_out",
+   "resource_id": "7442590863349256754",
+   "effect_id": "94174789",
+   "md5": "11b7e97fceba9cf1d7babfe764d1bdcb",
+   "duration_s": 1.75,
+   "vip": true
+  },
+  {
+   "name": "震动波纹",
+   "category": "video_out",
+   "resource_id": "7307196476340310554",
+   "effect_id": "31806349",
+   "md5": "cdb162bc674e495b24d38a2cf4bd04b6",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "震波 III",
+   "category": "video_out",
+   "resource_id": "7289005562124046907",
+   "effect_id": "25555607",
+   "md5": "70a42c94712b15ff4fbf198be0336400",
+   "duration_s": 0.733,
+   "vip": true
+  },
+  {
+   "name": "鞭炮遮罩",
+   "category": "video_out",
+   "resource_id": "7461923788343480841",
+   "effect_id": "102029466",
+   "md5": "0e395a1c73b9bb3e83ae101d4df3f850",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "音量大小",
+   "category": "video_out",
+   "resource_id": "7462226526260433418",
+   "effect_id": "102188408",
+   "md5": "210be278f95cc7cce8fde314de29ab07",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "飘散",
+   "category": "video_out",
+   "resource_id": "7305957010518839846",
+   "effect_id": "31245441",
+   "md5": "286553fb78795b8044746938e4327d5e",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "飞远",
+   "category": "video_out",
+   "resource_id": "7394730499492549158",
+   "effect_id": "76392667",
+   "md5": "d897f0f656870ca1469ac30d61e9490a",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "马赛克",
+   "category": "video_out",
+   "resource_id": "7283415427328250405",
+   "effect_id": "24073041",
+   "md5": "6be9c2fd05f76e3902a9967139706468",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "魔法粒子I",
+   "category": "video_out",
+   "resource_id": "7446622476928291378",
+   "effect_id": "95912176",
+   "md5": "118e1dc5094d45b278111675f99fe4d7",
+   "duration_s": 3.0,
+   "vip": true
+  },
+  {
+   "name": "魔法粒子II",
+   "category": "video_out",
+   "resource_id": "7446673724146717221",
+   "effect_id": "95966045",
+   "md5": "ff56bdebbd3863db982d845635b3c42e",
+   "duration_s": 3.0,
+   "vip": true
+  },
+  {
+   "name": "黑白画中画",
+   "category": "video_out",
+   "resource_id": "7436273288612942374",
+   "effect_id": "90036501",
+   "md5": "3bdba83de89cf27167d319f5e727647f",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "冲屏位移",
+   "category": "text_in",
+   "resource_id": "7078181271393800711",
+   "effect_id": "1643884",
+   "md5": "fd73ffc26a3f02fa6d957a94b590623a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "卡拉OK",
+   "category": "text_in",
+   "resource_id": "6771294855785091588",
+   "effect_id": "1558840",
+   "md5": "46c913b531dcc84e23a2f56003d1daef",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "变色输入",
+   "category": "text_in",
+   "resource_id": "7397306443147252233",
+   "effect_id": "77035159",
+   "md5": "e0e29d6ea015f0d1d38b4a852a1b6202",
+   "duration_s": 0.8,
+   "vip": false
+  },
+  {
+   "name": "右上弹入",
+   "category": "text_in",
+   "resource_id": "7074854080388010532",
+   "effect_id": "1621978",
+   "md5": "932ea0a91ca337bc1fd566aa17cb9aa7",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "右下擦开",
+   "category": "text_in",
+   "resource_id": "7088576340361744903",
+   "effect_id": "1715294",
+   "md5": "70a3ffbff2b02ede796ee38d95b38db2",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上擦除",
+   "category": "text_in",
+   "resource_id": "6774625910067827212",
+   "effect_id": "1644272",
+   "md5": "ee74a3a8afb2167f4403dee957338afe",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上滑动",
+   "category": "text_in",
+   "resource_id": "6763470111253729803",
+   "effect_id": "1644267",
+   "md5": "22030c473076074288fd01b17d1c6174",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上翻转",
+   "category": "text_in",
+   "resource_id": "7194703971498332727",
+   "effect_id": "8945307",
+   "md5": "0cf2050093a2bbe736ab4b2ee9002dcf",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上重叠",
+   "category": "text_in",
+   "resource_id": "7077500533040222756",
+   "effect_id": "1639676",
+   "md5": "b3ea1be4937b7cd032f1775d98b1f06e",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上露出",
+   "category": "text_in",
+   "resource_id": "7163514358935327268",
+   "effect_id": "5925717",
+   "md5": "3786ff3fcc9795eead5fd5629ff7e4e9",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向下擦除",
+   "category": "text_in",
+   "resource_id": "6774626192990409224",
+   "effect_id": "1644273",
+   "md5": "bfe1add2d59ee32449a979257d4a3448",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向下滑动",
+   "category": "text_in",
+   "resource_id": "6724921985282871816",
+   "effect_id": "1644268",
+   "md5": "f5506a1b5ebcf9d0636d7809bf3cb81a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向下露出",
+   "category": "text_in",
+   "resource_id": "7163514502128865823",
+   "effect_id": "5925716",
+   "md5": "a7b05a11c6bdc7010cc4dc7f1d276407",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向下飞入",
+   "category": "text_in",
+   "resource_id": "7088942186561016356",
+   "effect_id": "1719670",
+   "md5": "4ee5a7a4d9ab7bbd7dd2ad4d8b80db78",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右擦除",
+   "category": "text_in",
+   "resource_id": "6771288500240126478",
+   "effect_id": "1644271",
+   "md5": "b4a5ba027822ca3e1c9d83d2f5a58a08",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右滑动",
+   "category": "text_in",
+   "resource_id": "6724920136056181256",
+   "effect_id": "1644266",
+   "md5": "fa1d0bc4290f058d0175ee4b4fb5501f",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右缓入",
+   "category": "text_in",
+   "resource_id": "7043778124760224292",
+   "effect_id": "1488722",
+   "md5": "2d751bb706b38a030ab7eb3382b2d248",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右集合",
+   "category": "text_in",
+   "resource_id": "7081206983461704199",
+   "effect_id": "1661186",
+   "md5": "5a78f1024ecdc9a6b69220eac58a0963",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右露出",
+   "category": "text_in",
+   "resource_id": "7163514730525495839",
+   "effect_id": "5925714",
+   "md5": "6f8e0a5cd98c44b79f9ec09b0b913059",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左擦除",
+   "category": "text_in",
+   "resource_id": "6774626830038077960",
+   "effect_id": "1644270",
+   "md5": "4db856992dc60d1220664165d4130042",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左滑动",
+   "category": "text_in",
+   "resource_id": "6763470195894784525",
+   "effect_id": "1644277",
+   "md5": "13c954ed3bc583f87e9f79a2325b8e84",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左露出",
+   "category": "text_in",
+   "resource_id": "7163514612690719269",
+   "effect_id": "5925715",
+   "md5": "b4119cf3405c71bc556e1c5562e22d01",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "圆形扫描",
+   "category": "text_in",
+   "resource_id": "6840689010034086407",
+   "effect_id": "1644280",
+   "md5": "ac77daf80de65a4beb1164ce44c500c5",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "复古打字机",
+   "category": "text_in",
+   "resource_id": "7253888335163167291",
+   "effect_id": "17639720",
+   "md5": "a69db3276f15fa2affcd98f2236c873d",
+   "duration_s": 0.8,
+   "vip": false
+  },
+  {
+   "name": "居中打字",
+   "category": "text_in",
+   "resource_id": "7265222187286532667",
+   "effect_id": "20303987",
+   "md5": "40f484d3b77321b38d53b30d94c2dce1",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "左上弹入",
+   "category": "text_in",
+   "resource_id": "7078586233030447629",
+   "effect_id": "1646760",
+   "md5": "6467514ec2a8740953d29c3915364a31",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "左移弹动",
+   "category": "text_in",
+   "resource_id": "7313890082040058406",
+   "effect_id": "35176342",
+   "md5": "c21d4019453137cd76e0d847d5d8af96",
+   "duration_s": 1.0,
+   "vip": false
+  },
+  {
+   "name": "开幕",
+   "category": "text_in",
+   "resource_id": "6835571502050447879",
+   "effect_id": "1644279",
+   "md5": "c26a12a1cacc6b85f8439a0bc600335d",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "弹入",
+   "category": "text_in",
+   "resource_id": "6887482184844710413",
+   "effect_id": "1644313",
+   "md5": "0533e3aeb2cda562cdd8a86693815443",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "弹弓",
+   "category": "text_in",
+   "resource_id": "6862897343176380942",
+   "effect_id": "1644305",
+   "md5": "f9300b314e5bd7df573063b15a1ab081",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "弹性伸缩",
+   "category": "text_in",
+   "resource_id": "6872642189260755463",
+   "effect_id": "1644311",
+   "md5": "7d23b7a68a1bf21c7692a35ffa6ddcdc",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "弹簧",
+   "category": "text_in",
+   "resource_id": "6884154692398486023",
+   "effect_id": "1644312",
+   "md5": "34d74f1bf451dac1a23158380a5be322",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "彩色映射",
+   "category": "text_in",
+   "resource_id": "7039655272222036516",
+   "effect_id": "1476514",
+   "md5": "46f37098540b9250abdad9bb1282ec83",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "打字机 I",
+   "category": "text_in",
+   "resource_id": "6724920249654710791",
+   "effect_id": "1644275",
+   "md5": "7c7cfe92aa22a8e131c94d20f44e97df",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "打字机 II",
+   "category": "text_in",
+   "resource_id": "6724920636403094028",
+   "effect_id": "1644276",
+   "md5": "1c500e93b3b8bdee3cbe1095db5d01ff",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "打字机 III",
+   "category": "text_in",
+   "resource_id": "6724920521462387207",
+   "effect_id": "1644335",
+   "md5": "1b21dfb54b0ccd50e50f383f01d0a193",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "打字机IV",
+   "category": "text_in",
+   "resource_id": "7237409385092223525",
+   "effect_id": "14235879",
+   "md5": "6828d67634e66ace1e76c4eb7cc2f8e6",
+   "duration_s": 2.0,
+   "vip": false
+  },
+  {
+   "name": "扭曲模糊",
+   "category": "text_in",
+   "resource_id": "7089261793406620197",
+   "effect_id": "1722114",
+   "md5": "40a9fd02e81930bc0289aeb692c382f6",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "拖尾",
+   "category": "text_in",
+   "resource_id": "7244102915239973432",
+   "effect_id": "15259479",
+   "md5": "5d0dbb4e66c3261576b47f8766e3eb14",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "收拢",
+   "category": "text_in",
+   "resource_id": "6779879712261935619",
+   "effect_id": "1644261",
+   "md5": "b173da2fb68d5f8e7dbb2cc000a50bdd",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "放大",
+   "category": "text_in",
+   "resource_id": "6724919499042066958",
+   "effect_id": "1644264",
+   "md5": "cf0f072aa31d3884ba90362af063f55a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "故障打字机",
+   "category": "text_in",
+   "resource_id": "6870061463243854350",
+   "effect_id": "1644308",
+   "md5": "b4536942105b69e637dabef4c3ebfc6d",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "旋入",
+   "category": "text_in",
+   "resource_id": "6763873859402732039",
+   "effect_id": "1644265",
+   "md5": "dc3a54158c51f45a0033a16f5763e047",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "日出",
+   "category": "text_in",
+   "resource_id": "6779084126457696776",
+   "effect_id": "1644269",
+   "md5": "9e39257e0d8b60598d1c09bb31fbc62a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "晕开",
+   "category": "text_in",
+   "resource_id": "7088531060341871141",
+   "effect_id": "1714696",
+   "md5": "2f7aebf0f525ef21f8b00070c17d2fc2",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "模糊",
+   "category": "text_in",
+   "resource_id": "6923094735116571150",
+   "effect_id": "1644338",
+   "md5": "0e57ec99758f1e12636a73c6ec4fb6f5",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "水墨晕开",
+   "category": "text_in",
+   "resource_id": "7278295995362841145",
+   "effect_id": "22734325",
+   "md5": "5c970b17e18e3441b917a7bcba4d043b",
+   "duration_s": 1.2,
+   "vip": false
+  },
+  {
+   "name": "水平翻转",
+   "category": "text_in",
+   "resource_id": "7051512227353858590",
+   "effect_id": "1644340",
+   "md5": "9403a81925b4886589f745130a67cb05",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "波浪弹入",
+   "category": "text_in",
+   "resource_id": "6917178744775905806",
+   "effect_id": "1644316",
+   "md5": "301272b44278c3b5ebe228e8baa8d984",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "渐显",
+   "category": "text_in",
+   "resource_id": "6724916044072227332",
+   "effect_id": "1644304",
+   "md5": "40859aa05ff9f3e3a3f0de7bfead1c42",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "溶解",
+   "category": "text_in",
+   "resource_id": "6872642398095151629",
+   "effect_id": "1644310",
+   "md5": "b126b2989904ce12e8889a58df8447fc",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "滑动上升",
+   "category": "text_in",
+   "resource_id": "7275687883011265083",
+   "effect_id": "22226771",
+   "md5": "9ab223e5e9a0b9611b04062048173de9",
+   "duration_s": 1.5,
+   "vip": false
+  },
+  {
+   "name": "生长",
+   "category": "text_in",
+   "resource_id": "6869302248103481869",
+   "effect_id": "1644307",
+   "md5": "b0f76f716f571ecde209056995e96978",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "甩出",
+   "category": "text_in",
+   "resource_id": "7244102679851438650",
+   "effect_id": "15261071",
+   "md5": "97162e8faa56cf163b8f2c1bfd5ad6e0",
+   "duration_s": 0.9,
+   "vip": false
+  },
+  {
+   "name": "站起",
+   "category": "text_in",
+   "resource_id": "7265288917279052344",
+   "effect_id": "20324364",
+   "md5": "6f322d7bb7fe6b443197c2bf5d64dd8b",
+   "duration_s": 0.8,
+   "vip": false
+  },
+  {
+   "name": "缩小",
+   "category": "text_in",
+   "resource_id": "6724921217721045515",
+   "effect_id": "1644263",
+   "md5": "0b58ad7d0d7cc93080e7bedfd0caa222",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "缩小 II",
+   "category": "text_in",
+   "resource_id": "7041836555903701540",
+   "effect_id": "1644341",
+   "md5": "ae803da2a5d2292e0f8be3c8ab3b3788",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "羽化向右擦开",
+   "category": "text_in",
+   "resource_id": "6897084405781631496",
+   "effect_id": "1644314",
+   "md5": "d330712b8f96ce33d450489ea6e459a3",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "羽化向左擦开",
+   "category": "text_in",
+   "resource_id": "6897084292908716557",
+   "effect_id": "1644315",
+   "md5": "a4eefe0afe41cd05acd1beb3d2615b23",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "翻动",
+   "category": "text_in",
+   "resource_id": "7308278898330964489",
+   "effect_id": "32283659",
+   "md5": "ba570ec241b336204d882fe35f128d5d",
+   "duration_s": 1.0,
+   "vip": false
+  },
+  {
+   "name": "轻微放大",
+   "category": "text_in",
+   "resource_id": "6763469998330483213",
+   "effect_id": "1644262",
+   "md5": "6f5ec0bb82bfd24a72706e2006c0e806",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "逐字旋转",
+   "category": "text_in",
+   "resource_id": "7111643562676064805",
+   "effect_id": "3114660",
+   "md5": "17a78b3b5c193a3e30431946a8cbd696",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "逐字显影",
+   "category": "text_in",
+   "resource_id": "7038882772450021896",
+   "effect_id": "1644339",
+   "md5": "2f250516dcea1a591656dabc9c40684f",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "逐字翻转",
+   "category": "text_in",
+   "resource_id": "7112241904216969765",
+   "effect_id": "3138860",
+   "md5": "cdf2df541dea807f4bcb29ede73dd766",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "闪动",
+   "category": "text_in",
+   "resource_id": "7035902226602136071",
+   "effect_id": "1644322",
+   "md5": "8a1581c846a5933e8a90204219504892",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "随机弹跳",
+   "category": "text_in",
+   "resource_id": "7021831463867781662",
+   "effect_id": "1644321",
+   "md5": "d49f117c117e7d6b4dcb53bbe9b5ed4a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "随机飞入",
+   "category": "text_in",
+   "resource_id": "6872642542765085191",
+   "effect_id": "1644309",
+   "md5": "d9ad3796df2b0881ea144f8dfa44e0b1",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "乱码故障",
+   "category": "text_in",
+   "resource_id": "7325648367747338802",
+   "effect_id": "40877554",
+   "md5": "00b40103690bfb45e0125592b6ec0f5c",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "二段缩放",
+   "category": "text_in",
+   "resource_id": "7238519092997526074",
+   "effect_id": "14394713",
+   "md5": "a4cba6840c1bf92bc73bb1bcacf7b76e",
+   "duration_s": 0.9,
+   "vip": true
+  },
+  {
+   "name": "便利贴",
+   "category": "text_in",
+   "resource_id": "7307207886843679283",
+   "effect_id": "31819229",
+   "md5": "4e9265ea4703be87feaf640d79b23f7c",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "倒数",
+   "category": "text_in",
+   "resource_id": "7314303157360661018",
+   "effect_id": "35401566",
+   "md5": "814df0b29746943fe165ae9b16719cc2",
+   "duration_s": 1.8,
+   "vip": true
+  },
+  {
+   "name": "兔子弹跳",
+   "category": "text_in",
+   "resource_id": "7187785892382118461",
+   "effect_id": "8398145",
+   "md5": "5d157129853f479ea15f75075c1ef070",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "冰雪飘动",
+   "category": "text_in",
+   "resource_id": "7314291622525538843",
+   "effect_id": "35395178",
+   "md5": "6e3e4d697d85de5b23b3f243a35b7f26",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "发光模糊",
+   "category": "text_in",
+   "resource_id": "7054482687297327630",
+   "effect_id": "1644342",
+   "md5": "ba83061e43e95969f5a19cfa236120b7",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "发光闪入",
+   "category": "text_in",
+   "resource_id": "7308272157442707978",
+   "effect_id": "32278776",
+   "md5": "c30f989a97cddbdc64e43ba96d901b71",
+   "duration_s": 1.8,
+   "vip": true
+  },
+  {
+   "name": "叠影并入",
+   "category": "text_in",
+   "resource_id": "7259634012774208059",
+   "effect_id": "19101418",
+   "md5": "8358578022cd14c6232a99ddee035824",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "向上弹入",
+   "category": "text_in",
+   "resource_id": "7123116334677758501",
+   "effect_id": "3704299",
+   "md5": "28d9145ead32c23742082a37e511370e",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "向下溶解",
+   "category": "text_in",
+   "resource_id": "7028458557058060831",
+   "effect_id": "1644318",
+   "md5": "09fde2de891d18c74949e025bc0dca07",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "向右模糊 II",
+   "category": "text_in",
+   "resource_id": "7254503374622560828",
+   "effect_id": "17830700",
+   "md5": "6b3c54ef781f16f20204d766b799abec",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "向左模糊",
+   "category": "text_in",
+   "resource_id": "7112368349257929230",
+   "effect_id": "3147126",
+   "md5": "f99acc8cc6b3fcd2b4ea661670c4c048",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "吸入",
+   "category": "text_in",
+   "resource_id": "7120438380453696031",
+   "effect_id": "3576973",
+   "md5": "42a0c7e42275986d92a2d3bbe55dd816",
+   "duration_s": 0.3,
+   "vip": true
+  },
+  {
+   "name": "呐喊声波",
+   "category": "text_in",
+   "resource_id": "7199943069385364005",
+   "effect_id": "9432429",
+   "md5": "6f5992c1f47cac9d33468c5e60725d0b",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "喷绘",
+   "category": "text_in",
+   "resource_id": "7120131223036367367",
+   "effect_id": "3563651",
+   "md5": "77633d8638e177488dcce84086018c8a",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "圆柱体滚动",
+   "category": "text_in",
+   "resource_id": "7179035729043919397",
+   "effect_id": "7548913",
+   "md5": "7ce47010b9b736d12d264cf73f6c294e",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "圣诞帽弹跳",
+   "category": "text_in",
+   "resource_id": "7169419861158793759",
+   "effect_id": "6492065",
+   "md5": "e5de917f45c938a685b73a9e0bb464e1",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "圣诞树弹跳II",
+   "category": "text_in",
+   "resource_id": "7174706243267727930",
+   "effect_id": "7080877",
+   "md5": "c9be0fbb72056234cdc5f8e082f32c40",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "弹入跳动",
+   "category": "text_in",
+   "resource_id": "7184797276181631546",
+   "effect_id": "8058189",
+   "md5": "7a2b94056fe6c1cba19e27a986cdcb64",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "弹性伸缩 II",
+   "category": "text_in",
+   "resource_id": "7308272646913790490",
+   "effect_id": "32279178",
+   "md5": "9b0bdc149bbc541e93cddaf94b1dcaa0",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "心动瞬间",
+   "category": "text_in",
+   "resource_id": "7332519885999706663",
+   "effect_id": "44271866",
+   "md5": "2438d9132c7b04552762ae54066f7d94",
+   "duration_s": 1.65,
+   "vip": true
+  },
+  {
+   "name": "慢速放大",
+   "category": "text_in",
+   "resource_id": "7205177922280231479",
+   "effect_id": "10063675",
+   "md5": "33d85f938bd55928fa16bede8cf7a26b",
+   "duration_s": 60.0,
+   "vip": true
+  },
+  {
+   "name": "打字光标",
+   "category": "text_in",
+   "resource_id": "7237411357514011192",
+   "effect_id": "14235878",
+   "md5": "12196518b89652860631d196d19b6f45",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "抖动甩入",
+   "category": "text_in",
+   "resource_id": "7301945752278798885",
+   "effect_id": "29825712",
+   "md5": "8e49d8dde0112aaf071d41e8a56527e1",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "折叠",
+   "category": "text_in",
+   "resource_id": "7125298122011447816",
+   "effect_id": "3779439",
+   "md5": "9f65c45595fa8c0002f7f49a61637ff2",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "描边填充",
+   "category": "text_in",
+   "resource_id": "7308269965453300262",
+   "effect_id": "32278219",
+   "md5": "cb8300f18fdf8b9aab7c1eacd33e92c9",
+   "duration_s": 0.9,
+   "vip": true
+  },
+  {
+   "name": "放大震动",
+   "category": "text_in",
+   "resource_id": "7267849370727354936",
+   "effect_id": "20801300",
+   "md5": "e6f8542e114dcb8b7aea821b1c954941",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "故障闪动",
+   "category": "text_in",
+   "resource_id": "7244101806710592057",
+   "effect_id": "15261571",
+   "md5": "f0c64727504b3975b4656ee2b10760fb",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "新年打字机",
+   "category": "text_in",
+   "resource_id": "7272754730684650045",
+   "effect_id": "21711818",
+   "md5": "a5aa35ae2b69f85c944074dfeadd6c89",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "旋转缩放",
+   "category": "text_in",
+   "resource_id": "7243633588493619773",
+   "effect_id": "15140845",
+   "md5": "cef0ccebe3406f4c53b64f39825b7bfa",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "旋转飞入",
+   "category": "text_in",
+   "resource_id": "6775803763652301326",
+   "effect_id": "1644274",
+   "md5": "21984d5e90731f925fc58a59fef355ee",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "星光闪闪",
+   "category": "text_in",
+   "resource_id": "7309036302962266675",
+   "effect_id": "32665781",
+   "md5": "269e1b23d766c0a3c5c9f792dedfd1a9",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "星光闪闪 II",
+   "category": "text_in",
+   "resource_id": "7319873264375829001",
+   "effect_id": "38428077",
+   "md5": "8cddcc9ff610948afbd705259cec8fa9",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "星星弹跳",
+   "category": "text_in",
+   "resource_id": "7307189517562155547",
+   "effect_id": "31799385",
+   "md5": "e5a1520dee5dd3700da60c62743111e4",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "模糊发光",
+   "category": "text_in",
+   "resource_id": "7301535952101446170",
+   "effect_id": "29690460",
+   "md5": "ea9d91ad5b58f1f9a1e95264f77e9a15",
+   "duration_s": 1.8,
+   "vip": true
+  },
+  {
+   "name": "模糊滚动",
+   "category": "text_in",
+   "resource_id": "7264501462187643450",
+   "effect_id": "20154968",
+   "md5": "3eaa7038a9148548a6b2cc6673f77944",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "模糊缩小",
+   "category": "text_in",
+   "resource_id": "7294147761765618186",
+   "effect_id": "27144470",
+   "md5": "7226ef3bab9d89a32e8becb2dcc5faac",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "汇聚",
+   "category": "text_in",
+   "resource_id": "6986931575199896094",
+   "effect_id": "5529369",
+   "md5": "2774ee332a759084eaa558bad0cb3a44",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "波浪弹跳",
+   "category": "text_in",
+   "resource_id": "7317536986691015218",
+   "effect_id": "37303562",
+   "md5": "e5b79c83b4a12edb15d2389a83c51476",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "流光扩散",
+   "category": "text_in",
+   "resource_id": "7314566361642963493",
+   "effect_id": "35505526",
+   "md5": "ee3e3d741c85017b94b5f2139edb7177",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "滚入",
+   "category": "text_in",
+   "resource_id": "7026674824537707038",
+   "effect_id": "1644320",
+   "md5": "d631585b87e866b31fe20fa8d578b7cd",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "激光雕刻",
+   "category": "text_in",
+   "resource_id": "7244102612700631589",
+   "effect_id": "15261101",
+   "md5": "affa14b4f89ceb4dd01a69a24b42651f",
+   "duration_s": 3.0,
+   "vip": true
+  },
+  {
+   "name": "爱心弹跳",
+   "category": "text_in",
+   "resource_id": "6845191009861636616",
+   "effect_id": "1644337",
+   "md5": "711434e690c1a1d7ebca4f13b1712f85",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "玩雪",
+   "category": "text_in",
+   "resource_id": "7304943429962699290",
+   "effect_id": "30904546",
+   "md5": "501ea62f0702ab65569aa0e923bd8182",
+   "duration_s": 60.0,
+   "vip": true
+  },
+  {
+   "name": "环绕滑入",
+   "category": "text_in",
+   "resource_id": "7261858654561767973",
+   "effect_id": "19562189",
+   "md5": "672aae4e963ac36d9b898cb32c964995",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "生长 II",
+   "category": "text_in",
+   "resource_id": "7210312869282320933",
+   "effect_id": "10659499",
+   "md5": "562300bfab6b00c4853118b058f429a2",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "电光",
+   "category": "text_in",
+   "resource_id": "7296051582246851109",
+   "effect_id": "27769111",
+   "md5": "5fbc2c019454b3420c8e8c6c0a42dad5",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "电光 II",
+   "category": "text_in",
+   "resource_id": "7299364098788037171",
+   "effect_id": "28928614",
+   "md5": "8c30a310e9ce5bf2b7b5a324c9426b7c",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "碰碰车",
+   "category": "text_in",
+   "resource_id": "7338602211041088027",
+   "effect_id": "47157536",
+   "md5": "ce6822887e702ad1a4b762e267148e38",
+   "duration_s": 0.6,
+   "vip": true
+  },
+  {
+   "name": "空翻",
+   "category": "text_in",
+   "resource_id": "6865175746420150792",
+   "effect_id": "1644306",
+   "md5": "c16d544824d736ad0be1a5e109aafc04",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "缤纷冲屏",
+   "category": "text_in",
+   "resource_id": "7116829842271638053",
+   "effect_id": "3894473",
+   "md5": "f6b8859c215e255b61f70cdbcc239b98",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "缩放 III",
+   "category": "text_in",
+   "resource_id": "7211036012401660473",
+   "effect_id": "10743073",
+   "md5": "d625a4ef458b7e8c5928cdf04ab952ac",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "翻页II",
+   "category": "text_in",
+   "resource_id": "7170343439832191519",
+   "effect_id": "6599721",
+   "md5": "69d372ee41a3c968e0a7b55382eb23ff",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "背景滑入",
+   "category": "text_in",
+   "resource_id": "7306794354255860250",
+   "effect_id": "31601883",
+   "md5": "69c170b50c062f8106c01b37682fe19f",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "色散拖影",
+   "category": "text_in",
+   "resource_id": "7340513927651922458",
+   "effect_id": "48159236",
+   "md5": "422b57c27cfd659d0756303189e11599",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "螺旋上升",
+   "category": "text_in",
+   "resource_id": "6799873891352187406",
+   "effect_id": "1644278",
+   "md5": "d3e255df67130866e0d2de42a703637c",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "跃进",
+   "category": "text_in",
+   "resource_id": "7220685840442200634",
+   "effect_id": "11996999",
+   "md5": "40bdc1263417f53c712c54cb32438008",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "跳跳捣蛋鬼",
+   "category": "text_in",
+   "resource_id": "7200340219109839419",
+   "effect_id": "9503089",
+   "md5": "897a0c194e07ace6813a2eba797ac22f",
+   "duration_s": 1.8,
+   "vip": true
+  },
+  {
+   "name": "跳跳糖",
+   "category": "text_in",
+   "resource_id": "7329815894933115432",
+   "effect_id": "42866461",
+   "md5": "c8ecf2f107002df92dcefec6ea988843",
+   "duration_s": 1.267,
+   "vip": true
+  },
+  {
+   "name": "辉光",
+   "category": "text_in",
+   "resource_id": "7258179345192063525",
+   "effect_id": "18786330",
+   "md5": "5bf3d95b86ac00f59c51dd3822d2b569",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "辉光扫描",
+   "category": "text_in",
+   "resource_id": "7316878401590006323",
+   "effect_id": "36927710",
+   "md5": "f9a2c9ae931b916a81f204a1b9c31f7c",
+   "duration_s": 1.8,
+   "vip": true
+  },
+  {
+   "name": "逐字弹跳",
+   "category": "text_in",
+   "resource_id": "7197615431673188921",
+   "effect_id": "9195301",
+   "md5": "52b151b0021d9fa91a42e65c2a392517",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "逐字旋入",
+   "category": "text_in",
+   "resource_id": "7229520427196879421",
+   "effect_id": "13137035",
+   "md5": "9838c6772ddbd48126f30baf74200f99",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "金粉飘落",
+   "category": "text_in",
+   "resource_id": "7330561002922054196",
+   "effect_id": "43242964",
+   "md5": "2add1c3882b2aaab841070f7bfd5ae66",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "镂空跳入",
+   "category": "text_in",
+   "resource_id": "7311620091060163082",
+   "effect_id": "33984693",
+   "md5": "cb98c7b01005954ba9cc4bc78a4c59a7",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "闪烁集合",
+   "category": "text_in",
+   "resource_id": "7267886380439573029",
+   "effect_id": "20805754",
+   "md5": "6d86be731c4d735a5e612a45b0c8631a",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "随机上升",
+   "category": "text_in",
+   "resource_id": "7233662263805088314",
+   "effect_id": "13720553",
+   "md5": "98142c53838b5a382f79cc2d89e30c04",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "随机弹跳 II",
+   "category": "text_in",
+   "resource_id": "7114189305781686797",
+   "effect_id": "3241034",
+   "md5": "ff0761c602fa5ec8cc31c48ce57ea003",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "随机打字机",
+   "category": "text_in",
+   "resource_id": "6926718978064650760",
+   "effect_id": "1644317",
+   "md5": "e1f7899554d34dfa3e1e4924f82acc69",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "随机落下",
+   "category": "text_in",
+   "resource_id": "7231443875406025275",
+   "effect_id": "13416707",
+   "md5": "a3aa7aa5991ef3c6a3d83a2e1fc6b748",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "随机集合",
+   "category": "text_in",
+   "resource_id": "7223959789175312954",
+   "effect_id": "12416139",
+   "md5": "4d1fa3b7aac9aeab107743db10372029",
+   "duration_s": 2.5,
+   "vip": true
+  },
+  {
+   "name": "雪光模糊",
+   "category": "text_in",
+   "resource_id": "7314614905196253705",
+   "effect_id": "35545508",
+   "md5": "cb35d22175f67f734290b48bdaf93dd6",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "音符弹跳",
+   "category": "text_in",
+   "resource_id": "6841115718172283406",
+   "effect_id": "1644336",
+   "md5": "86c6e9061b14fd43049b6232ffc113fa",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "顶出",
+   "category": "text_in",
+   "resource_id": "7268221856618910264",
+   "effect_id": "20880936",
+   "md5": "7fd6da0e6ff8a46276648dc43faa4f95",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "预览打字",
+   "category": "text_in",
+   "resource_id": "7268152375536259639",
+   "effect_id": "20853726",
+   "md5": "964a6cb51a01c0ddeb839010765023a6",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "飞入",
+   "category": "text_in",
+   "resource_id": "7029231035007111710",
+   "effect_id": "1644319",
+   "md5": "9980148af0641a8501561320ec8f967b",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "鼠标点击",
+   "category": "text_in",
+   "resource_id": "7350128013637325353",
+   "effect_id": "53149407",
+   "md5": "1ba2fbaaeb30f7756ecd92e0121b7ac0",
+   "duration_s": 1.65,
+   "vip": true
+  },
+  {
+   "name": "右上弹出",
+   "category": "text_out",
+   "resource_id": "7076006676951732767",
+   "effect_id": "1631524",
+   "md5": "7b65a6e8a2ef7015dc780dec3524af60",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "右下擦除",
+   "category": "text_out",
+   "resource_id": "7090146831836910110",
+   "effect_id": "1729286",
+   "md5": "5e99fcba0a90d5bde52a85e034469aea",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上擦除",
+   "category": "text_out",
+   "resource_id": "6774625752794010115",
+   "effect_id": "1644609",
+   "md5": "d9b04e37f86d6b5cf456f396648e11d4",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上溶解",
+   "category": "text_out",
+   "resource_id": "7026619708627489293",
+   "effect_id": "1644655",
+   "md5": "7422f3de89f894522a0b45f3f2196131",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向上滑动",
+   "category": "text_out",
+   "resource_id": "6763873533115240968",
+   "effect_id": "1644605",
+   "md5": "bbec5aa1ddf8df26276b99cfd9996d76",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向下擦除",
+   "category": "text_out",
+   "resource_id": "6774626081791021576",
+   "effect_id": "1644610",
+   "md5": "4dafd6a7cbde862044fcbc543ecd818a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向下滑动",
+   "category": "text_out",
+   "resource_id": "6724919284893487619",
+   "effect_id": "1644606",
+   "md5": "4b1190ca81551d872f1d6b0e2ce5db2b",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右擦除",
+   "category": "text_out",
+   "resource_id": "6783908820176343566",
+   "effect_id": "1644615",
+   "md5": "a48325fce55a7a419b351c8a9826c7a0",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右滑动",
+   "category": "text_out",
+   "resource_id": "6724920744431587853",
+   "effect_id": "1644614",
+   "md5": "4026a211f18b0fc6ab9e10d09c8922ba",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向右缓出",
+   "category": "text_out",
+   "resource_id": "7023684632591733284",
+   "effect_id": "1451688",
+   "md5": "59d06eeae650eb154920e1d07ef6b123",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左擦除",
+   "category": "text_out",
+   "resource_id": "6774626748177846791",
+   "effect_id": "1644608",
+   "md5": "1160d9bcc8a158a65441bcfc9603bd00",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左滑动",
+   "category": "text_out",
+   "resource_id": "6763873602476446221",
+   "effect_id": "1644613",
+   "md5": "a193ecedf73b2b27616ee7da4f599b9b",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "向左解散",
+   "category": "text_out",
+   "resource_id": "7083752251742753287",
+   "effect_id": "1674332",
+   "md5": "46b117e1d9fc552e574958fcde072a53",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "圆形扫描",
+   "category": "text_out",
+   "resource_id": "6840698265277567496",
+   "effect_id": "1644617",
+   "md5": "84c8a6772ba3199c3fdba0c171f0f2fc",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "居中打字",
+   "category": "text_out",
+   "resource_id": "7265222263174074937",
+   "effect_id": "20304017",
+   "md5": "39cf0ff875a8825a82377a11e8b89d6a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "展开",
+   "category": "text_out",
+   "resource_id": "6779879836916650509",
+   "effect_id": "1644599",
+   "md5": "cc9805cb2f96e99eec6c0f1978b03f70",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "左上弹出",
+   "category": "text_out",
+   "resource_id": "7078587337998864926",
+   "effect_id": "1646758",
+   "md5": "6cb5717740976cd9e65544d93bb8a8be",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "左移弹动",
+   "category": "text_out",
+   "resource_id": "7313890212529050138",
+   "effect_id": "35176386",
+   "md5": "26cd4509db97923ac2fb11eca5947750",
+   "duration_s": 1.0,
+   "vip": false
+  },
+  {
+   "name": "弹出",
+   "category": "text_out",
+   "resource_id": "6887482090351235592",
+   "effect_id": "1644648",
+   "md5": "ee214499310cb2a55d2370534fd0c02b",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "弹弓",
+   "category": "text_out",
+   "resource_id": "6862897350478664200",
+   "effect_id": "1644618",
+   "md5": "45f66e1fa1a3b79968b3749275bab10c",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "弹性伸缩",
+   "category": "text_out",
+   "resource_id": "6872642084977775118",
+   "effect_id": "1644646",
+   "md5": "f2882bcfc0abc3b0c53b39649a2c4224",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "弹簧",
+   "category": "text_out",
+   "resource_id": "6884154487246688776",
+   "effect_id": "1644647",
+   "md5": "15c4e6b0a27360bab5d6f5d421bbbe1e",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "打字机 I",
+   "category": "text_out",
+   "resource_id": "6763469696260903435",
+   "effect_id": "1644611",
+   "md5": "19a09f5625ae9001db6ce17d850da691",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "打字机 II",
+   "category": "text_out",
+   "resource_id": "6763469767555682823",
+   "effect_id": "1644612",
+   "md5": "f3ab4aa9eefc616bd928de6ca9936fb3",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "打字机 III",
+   "category": "text_out",
+   "resource_id": "6763469838368117256",
+   "effect_id": "1644664",
+   "md5": "3f77a87e46ee1b50cd0ac207809c4c24",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "扭曲模糊",
+   "category": "text_out",
+   "resource_id": "7090122015603954189",
+   "effect_id": "1729226",
+   "md5": "2e58579b330dbccc4491c5f0a8cf4a8a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "拖尾",
+   "category": "text_out",
+   "resource_id": "7244102819731477049",
+   "effect_id": "15260277",
+   "md5": "178d1715bc49ea8303d3a9831e14ea84",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "放大",
+   "category": "text_out",
+   "resource_id": "6724919767200698884",
+   "effect_id": "1644603",
+   "md5": "e818fb0699073a734ecead7c2768d827",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "放大 II",
+   "category": "text_out",
+   "resource_id": "7042278078415901192",
+   "effect_id": "1644666",
+   "md5": "1d6882ba11b67fff13c98493bc644027",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "故障打字机",
+   "category": "text_out",
+   "resource_id": "6870061326698287624",
+   "effect_id": "1644643",
+   "md5": "71a23656184bc8438f4fa22425192185",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "旋出",
+   "category": "text_out",
+   "resource_id": "6763873732143354376",
+   "effect_id": "1644604",
+   "md5": "ffc35db86b29aee7a0a4342ea5ed059f",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "日落",
+   "category": "text_out",
+   "resource_id": "6779084194392838670",
+   "effect_id": "1644607",
+   "md5": "662eea25ba7d450d9a91febf43f22f7f",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "晕开",
+   "category": "text_out",
+   "resource_id": "7090059095134179877",
+   "effect_id": "1727994",
+   "md5": "3f2770aa65e01746967c8289e193021b",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "模糊",
+   "category": "text_out",
+   "resource_id": "6923094772907250189",
+   "effect_id": "1644652",
+   "md5": "72f73d5e9fd970ccee4918008b5a9d9a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "水墨晕开",
+   "category": "text_out",
+   "resource_id": "7278296130432012857",
+   "effect_id": "22734371",
+   "md5": "2705529afbf57f101c042d3a96ca2795",
+   "duration_s": 1.2,
+   "vip": false
+  },
+  {
+   "name": "水平翻转",
+   "category": "text_out",
+   "resource_id": "7052633346936934942",
+   "effect_id": "1644667",
+   "md5": "8719853b159397ea64fc2102c61e52e4",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "波浪弹出",
+   "category": "text_out",
+   "resource_id": "6917178803521327630",
+   "effect_id": "1644651",
+   "md5": "c60021c62c10eab0aa4f408ed602405c",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "渐隐",
+   "category": "text_out",
+   "resource_id": "6724919382104871427",
+   "effect_id": "1644600",
+   "md5": "11004616098603d847593ce9ede05a62",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "溶解",
+   "category": "text_out",
+   "resource_id": "6872642354898014728",
+   "effect_id": "1644645",
+   "md5": "46389f9f5f72e1b58020a0b8293a23b9",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "滑动下落",
+   "category": "text_out",
+   "resource_id": "7270726693277405733",
+   "effect_id": "21330850",
+   "md5": "fa4aaf84b182425eed4e330ac03ecdbd",
+   "duration_s": 1.5,
+   "vip": false
+  },
+  {
+   "name": "生长",
+   "category": "text_out",
+   "resource_id": "6869302139584254477",
+   "effect_id": "1644642",
+   "md5": "e6ae4e1fc5ade7bd8765ef6d918f5f6f",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "缩小",
+   "category": "text_out",
+   "resource_id": "6724921351385125387",
+   "effect_id": "1644602",
+   "md5": "6c679c75b88d8c69335c9faefbcd635a",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "羽化向右擦除",
+   "category": "text_out",
+   "resource_id": "6897085341811872270",
+   "effect_id": "1644649",
+   "md5": "9d4c77cbae673b97c629890c6687bc71",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "羽化向左擦除",
+   "category": "text_out",
+   "resource_id": "6897085246206906893",
+   "effect_id": "1644650",
+   "md5": "865d4874f9e21f104881bd3f1f1e02fa",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "翻动",
+   "category": "text_out",
+   "resource_id": "7308279288061497865",
+   "effect_id": "32283993",
+   "md5": "04cba0b253ac17aba55979be72a1a322",
+   "duration_s": 1.0,
+   "vip": false
+  },
+  {
+   "name": "躺下",
+   "category": "text_out",
+   "resource_id": "7265288999470633509",
+   "effect_id": "20324365",
+   "md5": "dc012ae6bfd6482bb0e52d02328016c8",
+   "duration_s": 0.8,
+   "vip": false
+  },
+  {
+   "name": "轻微放大",
+   "category": "text_out",
+   "resource_id": "6763469915518145032",
+   "effect_id": "1644601",
+   "md5": "1e293df954586a261a11576481dd8454",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "闪动",
+   "category": "text_out",
+   "resource_id": "7039245189638001183",
+   "effect_id": "1644658",
+   "md5": "6b16591d61fa6ee68eef9148dbf0aa31",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "闭幕",
+   "category": "text_out",
+   "resource_id": "6834511218552607239",
+   "effect_id": "1644616",
+   "md5": "02a28db581b74aac8547c2479cb219bc",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "随机弹跳",
+   "category": "text_out",
+   "resource_id": "7026617357300666893",
+   "effect_id": "1644665",
+   "md5": "c260caa85b16e7d471ddeb2015cdf3f3",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "随机飞出",
+   "category": "text_out",
+   "resource_id": "6872642497013617159",
+   "effect_id": "1644644",
+   "md5": "d1292de2cfc57d0ca12fdbafb4e0bca2",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "二段缩放",
+   "category": "text_out",
+   "resource_id": "7238519014866031162",
+   "effect_id": "14394793",
+   "md5": "bc54fc23dff39b105104f5bb15043ff9",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "发光闪出",
+   "category": "text_out",
+   "resource_id": "7308275717505028617",
+   "effect_id": "32281161",
+   "md5": "980fe827d603f3785e69854b6e5967a4",
+   "duration_s": 1.8,
+   "vip": true
+  },
+  {
+   "name": "叠影并出",
+   "category": "text_out",
+   "resource_id": "7259634082760364603",
+   "effect_id": "19101496",
+   "md5": "1cc4801fbe64f100872abd1d502ac121",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "向上飞出",
+   "category": "text_out",
+   "resource_id": "7090139631861109278",
+   "effect_id": "1730928",
+   "md5": "3513093fd914fcccfa87cb98a410062e",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "向下弹出",
+   "category": "text_out",
+   "resource_id": "7127158940151845390",
+   "effect_id": "3859743",
+   "md5": "751b7e005e3ec297f5d3d2c40664f585",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "向下翻转",
+   "category": "text_out",
+   "resource_id": "7198395913948107301",
+   "effect_id": "9282213",
+   "md5": "860c71ba47b9cf749ac977cb437ae1a8",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "向左模糊",
+   "category": "text_out",
+   "resource_id": "7112703727336690189",
+   "effect_id": "3176752",
+   "md5": "2115519d6d8226853c4c7faf8ad61b18",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "向左模糊 II",
+   "category": "text_out",
+   "resource_id": "7254503584732025381",
+   "effect_id": "17830676",
+   "md5": "b01dbbd36097f1d37e4dde2fd4380a13",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "吸出",
+   "category": "text_out",
+   "resource_id": "7121986743141667358",
+   "effect_id": "3647465",
+   "md5": "27d43c1a8f3bb21f88f25fadfd74e113",
+   "duration_s": 0.3,
+   "vip": true
+  },
+  {
+   "name": "喷绘",
+   "category": "text_out",
+   "resource_id": "7120131305303446029",
+   "effect_id": "3563649",
+   "md5": "a2efafd9407094f2706c38b5ea2867c0",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "复古打字机",
+   "category": "text_out",
+   "resource_id": "7252619798108967484",
+   "effect_id": "17250228",
+   "md5": "38ce74d50ed5abdebf4ba9cff80f644c",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "弹出跳动",
+   "category": "text_out",
+   "resource_id": "7184797189627974200",
+   "effect_id": "8058215",
+   "md5": "dffb8966b47b6eae5fb9ef0e0fe6e6b9",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "弹性伸缩 II",
+   "category": "text_out",
+   "resource_id": "7308276711039177225",
+   "effect_id": "32281815",
+   "md5": "9b225f4fafa2341876eec98ba91c89ee",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "打字光标",
+   "category": "text_out",
+   "resource_id": "7237411511755346491",
+   "effect_id": "14235852",
+   "md5": "1285f4e58d3989468cc7c7679145e155",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "打字机IV",
+   "category": "text_out",
+   "resource_id": "7237411448303915557",
+   "effect_id": "14235853",
+   "md5": "3f2d4916f48390652f4abaff69742c0b",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "折叠",
+   "category": "text_out",
+   "resource_id": "7124961998919438884",
+   "effect_id": "3769517",
+   "md5": "ccce629bcf7f98a8de4d4e1a2228d11a",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "描边填充",
+   "category": "text_out",
+   "resource_id": "7308273254127374874",
+   "effect_id": "32279531",
+   "md5": "9dc334dd67a2ace030c8d0f0d01ecede",
+   "duration_s": 0.9,
+   "vip": true
+  },
+  {
+   "name": "收缩震动",
+   "category": "text_out",
+   "resource_id": "7268214314022998588",
+   "effect_id": "20877442",
+   "md5": "c95da61de0632a74d061f03806a8ea9b",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "故障",
+   "category": "text_out",
+   "resource_id": "7091567288385540622",
+   "effect_id": "1789138",
+   "md5": "b106b2d684134a06b033aa2ba70baea2",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "故障闪动",
+   "category": "text_out",
+   "resource_id": "7244102414377161276",
+   "effect_id": "15261509",
+   "md5": "ba766fab0ea8b838f1c64973aee2b54b",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "旋转缩放",
+   "category": "text_out",
+   "resource_id": "7243633648237285949",
+   "effect_id": "15140857",
+   "md5": "37af568e3f004232b19507b24d5438c1",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "旋转飞出",
+   "category": "text_out",
+   "resource_id": "6775804032318444045",
+   "effect_id": "1644639",
+   "md5": "802b2078b18d70ecd073ffacff59c1d8",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "模糊发光",
+   "category": "text_out",
+   "resource_id": "7301536173959156274",
+   "effect_id": "29690520",
+   "md5": "a21891cf3eff128b2a5190cad5356d69",
+   "duration_s": 1.8,
+   "vip": true
+  },
+  {
+   "name": "模糊滚动",
+   "category": "text_out",
+   "resource_id": "7264501549240422949",
+   "effect_id": "20154980",
+   "md5": "9c07a1d5d75f675d32f8917dc76f7381",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "波浪弹跳",
+   "category": "text_out",
+   "resource_id": "7317637880799564297",
+   "effect_id": "37396324",
+   "md5": "17dc7c4e6498440fcafc56dfbe3fb4fe",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "消散",
+   "category": "text_out",
+   "resource_id": "7155790075794559525",
+   "effect_id": "5323563",
+   "md5": "21888446c8d15d56c60864985328652b",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "滚出",
+   "category": "text_out",
+   "resource_id": "7023684709737566728",
+   "effect_id": "1644656",
+   "md5": "f25af0cdef9584d588584b3765350f64",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "激光雕刻",
+   "category": "text_out",
+   "resource_id": "7244102529573720635",
+   "effect_id": "15261103",
+   "md5": "bb0ab89c7396d11d5663b0071296f27d",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "炸开",
+   "category": "text_out",
+   "resource_id": "7142816577971294734",
+   "effect_id": "4577477",
+   "md5": "15ced8e31e8d57f8932820fe99f96391",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "炸开 II",
+   "category": "text_out",
+   "resource_id": "7148309755121898015",
+   "effect_id": "4834739",
+   "md5": "bff4571b77bca8598b6ce8ba65d93252",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "炸开 Ⅲ",
+   "category": "text_out",
+   "resource_id": "7308274161992864266",
+   "effect_id": "32280237",
+   "md5": "0060b15237436dc553a3a050825d18a6",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "环绕滑出",
+   "category": "text_out",
+   "resource_id": "7261858590808347193",
+   "effect_id": "19562193",
+   "md5": "c88f30f314faade1a6e71884234a380b",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "甩回",
+   "category": "text_out",
+   "resource_id": "7244102747698500156",
+   "effect_id": "15261069",
+   "md5": "0203e194e3bcf10f7f96fde73dc350f3",
+   "duration_s": 0.6,
+   "vip": true
+  },
+  {
+   "name": "空翻",
+   "category": "text_out",
+   "resource_id": "6865176065514410503",
+   "effect_id": "1644641",
+   "md5": "f578720479df7746fa067199a1e4ea8b",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "螺旋下降",
+   "category": "text_out",
+   "resource_id": "6799874105710481927",
+   "effect_id": "1644640",
+   "md5": "e6e1a2239d894b408e41341a6ca578ca",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "逐字旋出",
+   "category": "text_out",
+   "resource_id": "7229520513586958908",
+   "effect_id": "13137113",
+   "md5": "3df3f26182ac9c6359be95dfb443d5da",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "逐字旋转",
+   "category": "text_out",
+   "resource_id": "7112021029085516319",
+   "effect_id": "3129838",
+   "md5": "ee29d8b9e06a471972f36734c53dbea8",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "逐字翻转",
+   "category": "text_out",
+   "resource_id": "7112274846326723086",
+   "effect_id": "3139394",
+   "md5": "ffc81a4b0c44427fbfd60984f7ddcdc2",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "逐字虚影",
+   "category": "text_out",
+   "resource_id": "7034717113130422791",
+   "effect_id": "1644657",
+   "md5": "fe2cfbc08c330517caa8b602187ced07",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "镂空跳出",
+   "category": "text_out",
+   "resource_id": "7312331703903588902",
+   "effect_id": "34383204",
+   "md5": "9ee4277be6f23033bf1b80fd0e6e8d27",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "闪烁散开",
+   "category": "text_out",
+   "resource_id": "7268169968204649020",
+   "effect_id": "20860262",
+   "md5": "b58f8939e94946a70c35188819a65a78",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "随机弹跳 II",
+   "category": "text_out",
+   "resource_id": "7114191629346411016",
+   "effect_id": "3241116",
+   "md5": "0f0b492622513301a7cd8f30b035a056",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "随机打字机",
+   "category": "text_out",
+   "resource_id": "6926719087158497806",
+   "effect_id": "1644653",
+   "md5": "9db48fc9916b5b8554ce7262bb90f18f",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "顶出",
+   "category": "text_out",
+   "resource_id": "7268231069768356408",
+   "effect_id": "20882164",
+   "md5": "98ad0ec3b5980352e4709158def77960",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "预览打字",
+   "category": "text_out",
+   "resource_id": "7268216065337856572",
+   "effect_id": "20878188",
+   "md5": "360d883bb43dab551defd1e94b9730d6",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "飞出",
+   "category": "text_out",
+   "resource_id": "7029522072724312612",
+   "effect_id": "1644654",
+   "md5": "324c695abdd43e1ec3506364fce0a087",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "VHS",
+   "category": "text_loop",
+   "resource_id": "7399879467457319463",
+   "effect_id": "77851352",
+   "md5": "f82d0f25b2cc4f0696dce7d97c7b02be",
+   "duration_s": 2.0,
+   "vip": false
+  },
+  {
+   "name": "上弧",
+   "category": "text_loop",
+   "resource_id": "7075224569421763079",
+   "effect_id": "1626238",
+   "md5": "a0362ebaa2f5016487abfab05d47605b",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "刷屏",
+   "category": "text_loop",
+   "resource_id": "7308280358691148315",
+   "effect_id": "32284703",
+   "md5": "e92c576feca5efb75feda14004b269c5",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "发光模糊多行",
+   "category": "text_loop",
+   "resource_id": "7397688001356108339",
+   "effect_id": "77132594",
+   "md5": "ee68176782c8b62a207c04f4a979957a",
+   "duration_s": 0.8,
+   "vip": false
+  },
+  {
+   "name": "吹泡泡",
+   "category": "text_loop",
+   "resource_id": "7045155566003425823",
+   "effect_id": "1644539",
+   "md5": "6db3746838af18903d01968e6af07185",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "吹泡泡 II",
+   "category": "text_loop",
+   "resource_id": "7052257626897256968",
+   "effect_id": "1644528",
+   "md5": "b378734fd7a0e8ec78e53987823fad79",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "呐喊",
+   "category": "text_loop",
+   "resource_id": "7119024816480326157",
+   "effect_id": "4002167",
+   "md5": "04933b5e575c54cbf09c57c5e933f0ec",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "复古涂鸦",
+   "category": "text_loop",
+   "resource_id": "7400234025392017956",
+   "effect_id": "77997810",
+   "md5": "4bc57fba68e0cce14e2ea8ab652dabc2",
+   "duration_s": 1.0,
+   "vip": false
+  },
+  {
+   "name": "字体变换",
+   "category": "text_loop",
+   "resource_id": "7402185694732358170",
+   "effect_id": "78763194",
+   "md5": "06c685c00a9c1a7a484c7841ac45742a",
+   "duration_s": 0.8,
+   "vip": false
+  },
+  {
+   "name": "弹幕滚动",
+   "category": "text_loop",
+   "resource_id": "6790247082155315719",
+   "effect_id": "1644518",
+   "md5": "4ca7b3a27da98849561b21c9c6d964fc",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "彩虹",
+   "category": "text_loop",
+   "resource_id": "6908592625406710280",
+   "effect_id": "990096",
+   "md5": "fac0ebef55c57c31b3142f5840299b03",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "彩虹-情人节",
+   "category": "text_loop",
+   "resource_id": "6916820108211917325",
+   "effect_id": "1012617",
+   "md5": "c45282c8e30b8639a71345769060f3d5",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "彩虹-新年",
+   "category": "text_loop",
+   "resource_id": "6916820045519655432",
+   "effect_id": "1012618",
+   "md5": "dd9fcbbcfc17cad31ab42e886769c66e",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "彩虹-马卡龙",
+   "category": "text_loop",
+   "resource_id": "6921528300573561358",
+   "effect_id": "1022790",
+   "md5": "a614b3dd7d4b852f1a126afe4c5ee50f",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "扫光",
+   "category": "text_loop",
+   "resource_id": "7051843475892867598",
+   "effect_id": "1520868",
+   "md5": "0495742cdb3a26ff28dfabf7f8ef236b",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "投影颤抖 II",
+   "category": "text_loop",
+   "resource_id": "7070332370963927559",
+   "effect_id": "1599696",
+   "md5": "673aa54d5519360162ea8ec38986ea1c",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "折叠",
+   "category": "text_loop",
+   "resource_id": "7064823078542381581",
+   "effect_id": "1567212",
+   "md5": "c9b3ef10e455a3916dbef47a7f711eaa",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "拼贴纹理",
+   "category": "text_loop",
+   "resource_id": "7399983060806013479",
+   "effect_id": "77918388",
+   "md5": "922ca4e87c7eed7e60d062c18e928bc6",
+   "duration_s": 0.8,
+   "vip": false
+  },
+  {
+   "name": "描边粉笔",
+   "category": "text_loop",
+   "resource_id": "7399879712140431883",
+   "effect_id": "77851433",
+   "md5": "05c3c10997b885c71ed0dd64aff14dd2",
+   "duration_s": 2.0,
+   "vip": false
+  },
+  {
+   "name": "摇摆",
+   "category": "text_loop",
+   "resource_id": "6724920869363126795",
+   "effect_id": "1644515",
+   "md5": "8af4da60a802e3ca6c9fe2184fbe22d0",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "摇荡",
+   "category": "text_loop",
+   "resource_id": "6840710593289130503",
+   "effect_id": "1644523",
+   "md5": "61f24344eb8bf86582d6140ad985ef14",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "故障闪动",
+   "category": "text_loop",
+   "resource_id": "6857714281136263687",
+   "effect_id": "1644524",
+   "md5": "51d9ee83fbaf2dfa049885676ec2d5d9",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "旋转",
+   "category": "text_loop",
+   "resource_id": "6763900973946507784",
+   "effect_id": "1644510",
+   "md5": "151421d4de4d49e65b050cb413482cd5",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "晃动",
+   "category": "text_loop",
+   "resource_id": "6790246693674684942",
+   "effect_id": "1644520",
+   "md5": "383dabd75d7fe7985d990ebb34d63732",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "爆闪",
+   "category": "text_loop",
+   "resource_id": "7308279705252139530",
+   "effect_id": "32284413",
+   "md5": "61951bd303975761bc99f187bdb8fdab",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "环绕",
+   "category": "text_loop",
+   "resource_id": "6980916124976157220",
+   "effect_id": "1644542",
+   "md5": "e81fcebf0885fa5d698f6ca7d027a556",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "翻转",
+   "category": "text_loop",
+   "resource_id": "6763897586328801805",
+   "effect_id": "1644511",
+   "md5": "e4983ce92d02628087780832ef631c7d",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "色差故障",
+   "category": "text_loop",
+   "resource_id": "6835878163575214605",
+   "effect_id": "1644522",
+   "md5": "e0295a9f4f19fe21692c405f7c00d1e5",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "蓝黄滑动",
+   "category": "text_loop",
+   "resource_id": "7398492769628459539",
+   "effect_id": "77383265",
+   "md5": "bb717e125d34532ec904d1bc01ec25da",
+   "duration_s": 2.0,
+   "vip": false
+  },
+  {
+   "name": "超强晃动",
+   "category": "text_loop",
+   "resource_id": "7065208406633615909",
+   "effect_id": "1568854",
+   "md5": "b129b0e6bed4f9835f871848db646763",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "超强晃动 II",
+   "category": "text_loop",
+   "resource_id": "7069965879437431303",
+   "effect_id": "1597286",
+   "md5": "daec618afd4429f3f97085d3b7029bcc",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "超强波浪",
+   "category": "text_loop",
+   "resource_id": "6857036499389518349",
+   "effect_id": "872098",
+   "md5": "87f7332abda9ac46d5dc81f69c48daab",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "超强波浪 II",
+   "category": "text_loop",
+   "resource_id": "7065219379687854623",
+   "effect_id": "1568964",
+   "md5": "bdd007527d0eda9d64bfbf6aef103e97",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "跳动",
+   "category": "text_loop",
+   "resource_id": "6724920002958332420",
+   "effect_id": "1644512",
+   "md5": "784250e657b472a46a3b3ce0a838e4f7",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "轻微跳动",
+   "category": "text_loop",
+   "resource_id": "6884155832838132231",
+   "effect_id": "1644525",
+   "md5": "ac5c4160fae860fd74e5b7ab6d053252",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "钟摆",
+   "category": "text_loop",
+   "resource_id": "6724921579517514248",
+   "effect_id": "1644516",
+   "md5": "320b71150105629f7ab1b318716181eb",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "闪烁",
+   "category": "text_loop",
+   "resource_id": "6724921437930394120",
+   "effect_id": "1644514",
+   "md5": "6fe3f0fcd14e11e70b7510f42444b86c",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "雨刷",
+   "category": "text_loop",
+   "resource_id": "6799874389669057037",
+   "effect_id": "1644521",
+   "md5": "6a4c40e24db5027cb42892d8ade9df38",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "频闪边框",
+   "category": "text_loop",
+   "resource_id": "7308280718302384690",
+   "effect_id": "32284883",
+   "md5": "36184bd37eae10c2d8247fb5bd59c6f2",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "颤抖",
+   "category": "text_loop",
+   "resource_id": "6764189482871689742",
+   "effect_id": "1644509",
+   "md5": "9d16d8998abe172511399c3158bddddd",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "颤抖 III",
+   "category": "text_loop",
+   "resource_id": "7070036604429013535",
+   "effect_id": "1598082",
+   "md5": "c6f744d4c3d208abf97a3af3afe9d356",
+   "duration_s": 0.5,
+   "vip": false
+  },
+  {
+   "name": "加字符",
+   "category": "text_loop",
+   "resource_id": "7441532971082846758",
+   "effect_id": "93688629",
+   "md5": "f9c72d34da0c6e7b2b4263a37892ae6c",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "喷涌",
+   "category": "text_loop",
+   "resource_id": "7134190113780666887",
+   "effect_id": "4175399",
+   "md5": "76cc53a7bb20385d208c858a13cf06fd",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "喷绘",
+   "category": "text_loop",
+   "resource_id": "7110160318529016350",
+   "effect_id": "2999942",
+   "md5": "fbd35399a1880d2637731d20eb619d29",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "圆形涂鸦",
+   "category": "text_loop",
+   "resource_id": "7276420462131810874",
+   "effect_id": "22362181",
+   "md5": "696d3b443b4c6ed8b9f0f28825c08a8c",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "声波震动",
+   "category": "text_loop",
+   "resource_id": "7239526343833031223",
+   "effect_id": "14518651",
+   "md5": "9098085cd316045cf912e54a73d845a4",
+   "duration_s": 2.0,
+   "vip": true
+  },
+  {
+   "name": "字幕滚动",
+   "category": "text_loop",
+   "resource_id": "6790246884683289102",
+   "effect_id": "1644519",
+   "md5": "9aa4e0d045c61892c2b2e3fdfaf1b093",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "尾巴摇摆",
+   "category": "text_loop",
+   "resource_id": "7212897307782550053",
+   "effect_id": "10967121",
+   "md5": "c1585ff28130b111d0458c6490d20ef2",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "弹幕",
+   "category": "text_loop",
+   "resource_id": "7107592133472686606",
+   "effect_id": "2795622",
+   "md5": "8d0a44c1f51ea9cd7a8174f72751d2b7",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "弹幕 II",
+   "category": "text_loop",
+   "resource_id": "7096375845773644318",
+   "effect_id": "1826548",
+   "md5": "11bcd8965488f2c70e27c8dc5112c6cb",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "强调三遍",
+   "category": "text_loop",
+   "resource_id": "7129767866894651917",
+   "effect_id": "3966601",
+   "md5": "f34d9d771c836c5e4e836d4789788a82",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "彩色切换",
+   "category": "text_loop",
+   "resource_id": "7303430211519910451",
+   "effect_id": "30322872",
+   "md5": "e2c7f4ec20555abe1e50c1920e81a0f9",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "彩色火焰",
+   "category": "text_loop",
+   "resource_id": "7308278472541999654",
+   "effect_id": "32283417",
+   "md5": "94dd9722a4b46d248c5e1d3d4b7c71fb",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "影像叠加",
+   "category": "text_loop",
+   "resource_id": "7193989785319379515",
+   "effect_id": "8882439",
+   "md5": "018a39f66ba7ceb39f4d61e4446624f8",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "心跳",
+   "category": "text_loop",
+   "resource_id": "7210283971316290085",
+   "effect_id": "10650869",
+   "md5": "3c2c6a7f6b8b102e9ae5f918600f83c0",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "急了",
+   "category": "text_loop",
+   "resource_id": "7134634461588623909",
+   "effect_id": "4200435",
+   "md5": "4f01b8c42b2d4a26a89aa528e6cc1544",
+   "duration_s": 2.4,
+   "vip": true
+  },
+  {
+   "name": "悸动",
+   "category": "text_loop",
+   "resource_id": "7229526981807706680",
+   "effect_id": "13139395",
+   "md5": "dc1aa28b54954465640c40928fae55f7",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "情绪加载",
+   "category": "text_loop",
+   "resource_id": "7130142075995034119",
+   "effect_id": "3983735",
+   "md5": "6293429c9f4e12407d38089ee43b77cd",
+   "duration_s": 2.2,
+   "vip": true
+  },
+  {
+   "name": "扩音器",
+   "category": "text_loop",
+   "resource_id": "7277870806552547895",
+   "effect_id": "22619881",
+   "md5": "ba24954b91039982fabf75ad533e7ff1",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "扭动",
+   "category": "text_loop",
+   "resource_id": "7123093247672455711",
+   "effect_id": "3733565",
+   "md5": "5380b570671074788541d13e389daa4f",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "投影颤抖",
+   "category": "text_loop",
+   "resource_id": "7070332284934558245",
+   "effect_id": "1599698",
+   "md5": "4f4bebc9ab74f05801dca7b9b2ffa047",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "抖动故障",
+   "category": "text_loop",
+   "resource_id": "7283103017526628921",
+   "effect_id": "23998441",
+   "md5": "55749de55fe55fc230a31952790142f3",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "拉住",
+   "category": "text_loop",
+   "resource_id": "7221747595884892731",
+   "effect_id": "12135594",
+   "md5": "98db2339ea77225948ed8b7f8d72fc36",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "拉开",
+   "category": "text_loop",
+   "resource_id": "7223675733606928957",
+   "effect_id": "12390761",
+   "md5": "41f672adaa1cdccdb81c8d0b2b1124a4",
+   "duration_s": 60.0,
+   "vip": true
+  },
+  {
+   "name": "排队入场",
+   "category": "text_loop",
+   "resource_id": "7225496399817740855",
+   "effect_id": "12628547",
+   "md5": "0a7a9cb49305092f638d65888f149348",
+   "duration_s": 1.0,
+   "vip": true
+  },
+  {
+   "name": "摇摆 I",
+   "category": "text_loop",
+   "resource_id": "6908281696253121038",
+   "effect_id": "1520478",
+   "md5": "ea2f688a517d18a9de5912fa09f3bd56",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "放大缩小",
+   "category": "text_loop",
+   "resource_id": "7224077152587616805",
+   "effect_id": "12453543",
+   "md5": "3e1538ad9a9f723238bb922423e20aed",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "放大镜",
+   "category": "text_loop",
+   "resource_id": "7272339163142165050",
+   "effect_id": "21635790",
+   "md5": "e9f8437306ec0f948c1eb485f09692a3",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "文字泛光",
+   "category": "text_loop",
+   "resource_id": "7124226995231134239",
+   "effect_id": "3740251",
+   "md5": "879231435782ed4b72f278290070f20a",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "波浪",
+   "category": "text_loop",
+   "resource_id": "6724927688047333891",
+   "effect_id": "1644517",
+   "md5": "176a075543ef82c04df1dd40d181ac5b",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "波浪 II",
+   "category": "text_loop",
+   "resource_id": "7067046171381862919",
+   "effect_id": "1576246",
+   "md5": "62245c9799544b75258689eb1ff222bb",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "波浪 III",
+   "category": "text_loop",
+   "resource_id": "7067812686557352456",
+   "effect_id": "1583302",
+   "md5": "b57dd58b3c8090eae268bae843655c79",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "流光",
+   "category": "text_loop",
+   "resource_id": "7308277700492268042",
+   "effect_id": "32283005",
+   "md5": "fd7091c4e298df2433e9433c8d58a427",
+   "duration_s": 1.6,
+   "vip": true
+  },
+  {
+   "name": "涂鸦手绘",
+   "category": "text_loop",
+   "resource_id": "7276407256965452346",
+   "effect_id": "22361305",
+   "md5": "1ae8ceff3f65dd62f36b3eb43baff6b4",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "涂鸦手绘 II",
+   "category": "text_loop",
+   "resource_id": "7276407576625943100",
+   "effect_id": "22361304",
+   "md5": "f72282b1f43b0d5e59144bbca7fbeda8",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "渐变拖尾",
+   "category": "text_loop",
+   "resource_id": "7308277117622424090",
+   "effect_id": "32282151",
+   "md5": "950687cffad02a7b17bc9b672c9585f2",
+   "duration_s": 0.8,
+   "vip": true
+  },
+  {
+   "name": "漂浮",
+   "category": "text_loop",
+   "resource_id": "7213291988500615738",
+   "effect_id": "11017729",
+   "md5": "451fbb332b33ec6ba683dc9d22055810",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "漩涡",
+   "category": "text_loop",
+   "resource_id": "7099419657290912286",
+   "effect_id": "1936778",
+   "md5": "416be3d42ae0d037597209d2a2f843c4",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "环形滚动",
+   "category": "text_loop",
+   "resource_id": "7179135028343870012",
+   "effect_id": "7564487",
+   "md5": "e167e03db93ab98c4917ff53f59162c1",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "环绕 II",
+   "category": "text_loop",
+   "resource_id": "7114181846086193701",
+   "effect_id": "3240866",
+   "md5": "6df622ca3b91909a8d23ae24f1c2a675",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "甜甜圈",
+   "category": "text_loop",
+   "resource_id": "7070415354656199181",
+   "effect_id": "1600378",
+   "md5": "23a8cee8851ad7e169a094cee8ca9513",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "福袋炸开",
+   "category": "text_loop",
+   "resource_id": "7047088638932292127",
+   "effect_id": "1531460",
+   "md5": "2646a21f26faeb4103acacaa74c171f6",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "空间翻转 I",
+   "category": "text_loop",
+   "resource_id": "7163896186972148261",
+   "effect_id": "5965291",
+   "md5": "540b96331793d162cf80a099cd00dc55",
+   "duration_s": 1.5,
+   "vip": true
+  },
+  {
+   "name": "空间翻转 II",
+   "category": "text_loop",
+   "resource_id": "7163901901589713444",
+   "effect_id": "5966503",
+   "md5": "ce769779dfa1d9c69eb593318bf1bc28",
+   "duration_s": 1.1,
+   "vip": true
+  },
+  {
+   "name": "空间翻转 III",
+   "category": "text_loop",
+   "resource_id": "7163892769176424991",
+   "effect_id": "5964737",
+   "md5": "f9c82b94ebd990e6734ddef5ebba68cb",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "竖向渐变",
+   "category": "text_loop",
+   "resource_id": "7430669972088558090",
+   "effect_id": "87963946",
+   "md5": "db87c31a4c3252000f04f61d814e96d0",
+   "duration_s": 2.2,
+   "vip": true
+  },
+  {
+   "name": "翻页I",
+   "category": "text_loop",
+   "resource_id": "7168819879183651359",
+   "effect_id": "6443365",
+   "md5": "6f49e16f12b0518b2c3b38a12d07466d",
+   "duration_s": 1.2,
+   "vip": true
+  },
+  {
+   "name": "调皮",
+   "category": "text_loop",
+   "resource_id": "6917143282690560526",
+   "effect_id": "1644527",
+   "md5": "b832fcbb8ea3bcc64ddbd70c56166956",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "逐字放大",
+   "category": "text_loop",
+   "resource_id": "6908592686781960717",
+   "effect_id": "1644526",
+   "md5": "4cd5a5c4144a3a713469043722579306",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "错位",
+   "category": "text_loop",
+   "resource_id": "7243633488249754173",
+   "effect_id": "15140783",
+   "md5": "cc869e81ac3b5d769afa6836bab5937b",
+   "duration_s": 3.0,
+   "vip": true
+  },
+  {
+   "name": "随机弹跳",
+   "category": "text_loop",
+   "resource_id": "7045150354672980516",
+   "effect_id": "1644538",
+   "md5": "8656e9848f862adf1adfa30c26113a80",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "颤抖 II",
+   "category": "text_loop",
+   "resource_id": "6986920909927879199",
+   "effect_id": "1446098",
+   "md5": "8c985874e1b508c4bfb9552735228143",
+   "duration_s": 0.5,
+   "vip": true
+  },
+  {
+   "name": "飘起",
+   "category": "text_loop",
+   "resource_id": "7211060597352305189",
+   "effect_id": "10749797",
+   "md5": "1ab6d9a8761c108da6989633b933647e",
+   "duration_s": 3.0,
+   "vip": true
+  }
+ ]
+}
